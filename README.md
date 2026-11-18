@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**635 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 3:55 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**633 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 3:55 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (224) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (222) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -235,8 +235,6 @@
 | **Credence** | [Cloud Platform Engineer- Entry Level](https://www.wobo.ai/job/cloud-platform-engineer-entry-level-at-credence-lt6g22675/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | McLean, VA | \$70K to \$110K/yr | Oct&nbsp;20 |
 | **RTX** | [Systems Engineer I - Signal Processing (Onsite)](https://www.wobo.ai/job/systems-engineer-i-signal-processing-onsite-at-rtx-m901a5v9y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Tucson, AZ | \$63K to \$120K/yr | Oct&nbsp;19 |
 | ↳ | [Systems Engineer I - Guidance, Navigation, and Control (Onsite)](https://www.wobo.ai/job/systems-engineer-i-guidance-navigation-and-control-onsite-at-rtx-m9017k4ng/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Tucson, AZ | \$63K to \$120K/yr | Oct&nbsp;19 |
-| **Palantir Technologies** | [Software Engineer, New Grad - Query Engines](https://www.wobo.ai/job/software-engineer-new-grad-query-engines-at-palantir-technologies-lzo8iy4o3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (hybrid) | \$145K to \$155K/yr | Oct&nbsp;19 |
-| **Relativity Space** | [Software Development Engineer in Test I](https://www.wobo.ai/job/software-development-engineer-in-test-i-at-relativity-space-lwkjhzc8a/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Long Beach, CA | \$102K to \$154K/yr | Oct&nbsp;19 |
 
 [Back to sections](#sections)
 
