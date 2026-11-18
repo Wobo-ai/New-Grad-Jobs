@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**636 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 3:55 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**635 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 3:55 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (224) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (280) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (224) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -683,7 +683,6 @@
 | **Micron Technology** | [New College Grad Process Engineer – Diffusion / Implant / Rapid Thermal Process](https://www.wobo.ai/job/new-college-grad-process-engineer-diffusionimplantrapid-thermal-process-at-micron-lz12tw3g8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Manassas, VA | \$74K to \$183K/yr | Oct&nbsp;19 |
 | **Leidos** | [Junior Electrical Engineer](https://www.wobo.ai/job/junior-electrical-engineer-at-leidos-m1hy0v6b0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Bridgewater, VA | \$58K to \$105K/yr | Oct&nbsp;19 |
 | **Entegris** | [Engineer I, Mechanical Engineering](https://www.wobo.ai/job/engineer-i-mechanical-engineering-at-entegris-m7xn7pbz5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Luis Obispo, CA | \$90K to \$95K/yr | Oct&nbsp;19 |
-| **SpaceX** | [New Graduate Engineer, Electrical (Starshield)](https://www.wobo.ai/job/new-graduate-engineer-electrical-starshield-at-spacex-lwngbdykh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hawthorne, CA | \$115K to \$140K/yr | Oct&nbsp;19 |
 
 [Back to sections](#sections)
 
