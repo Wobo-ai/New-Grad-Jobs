@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**616 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:03 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**621 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:03 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (222) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (28) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (268) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (226) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (268) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,10 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Gregory Poole Equipment Company** | [IT Software Developer I](https://www.wobo.ai/job/it-software-developer-i-at-gregory-poole-equipment-company-rwv0k3d52/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Raleigh, NC |  | Nov&nbsp;18 |
+| **Thorlabs** | [Photonics Systems Engineer I](https://www.wobo.ai/job/photonics-systems-engineer-i-at-thorlabs-rwsafivy1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Newton, NJ | \$99K to \$105K/yr | Nov&nbsp;18 |
+| **ADT** | [Junior Java Developer](https://www.wobo.ai/job/junior-java-developer-at-adt-rwrbu2m6k/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Irving, TX |  | Nov&nbsp;18 |
+| **Bask Health** | [Associate Solutions Engineer, New Grad](https://www.wobo.ai/job/associate-solutions-engineer-new-grad-at-bask-health-rwr1au8c8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;18 |
 | **MetaPhase Consulting** | [Junior ServiceNow Developer](https://www.wobo.ai/job/junior-servicenow-developer-at-metaphase-consulting-rwe2stk3g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;18 |
 | **SAIC** | [MACH-TB Junior Mission Systems Engineer](https://www.wobo.ai/job/mach-tb-junior-mission-systems-engineer-at-saic-rvnw4o9mu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Crane, IN |  | Nov&nbsp;18 |
 | **Twitch** | [Software Engineer I, Commerce](https://www.wobo.ai/job/software-engineer-i-commerce-at-twitch-rxesfgysl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Seattle, WA +1 | \$111K to \$160K/yr | Nov&nbsp;17 |
@@ -340,6 +344,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **GM Financial** | [Associate Cybersecurity Analyst](https://www.wobo.ai/job/associate-cybersecurity-analyst-at-gm-financial-rwkc4jd2n/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Arlington, TX (hybrid) |  | Nov&nbsp;18 |
 | **Open Lending** | [Early Career Cyber Underwriter](https://www.wobo.ai/job/early-career-cyber-underwriter-at-open-lending-rw8qcl4yl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Nov&nbsp;18 |
 | **Foundant Technologies + SmartSimple Software** | [Junior Security Engineer](https://www.wobo.ai/job/junior-security-engineer-at-foundant-technologies-smartsimple-software-rvo8g5iyf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;18 |
 | **National Center for Missing & Exploited Children** | [Analyst 1, CyberTipline](https://www.wobo.ai/job/analyst-1-cybertipline-at-national-center-for-missing-exploited-children-rsui1rgdl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Lake Park, FL +1 |  | Nov&nbsp;17 |
