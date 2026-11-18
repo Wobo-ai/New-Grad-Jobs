@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**609 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 3:51 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**611 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:03 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (40) · [Security](#entry-level-security-jobs) (28) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (265) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (28) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (265) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -15,6 +15,8 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **MetaPhase Consulting** | [Junior ServiceNow Developer](https://www.wobo.ai/job/junior-servicenow-developer-at-metaphase-consulting-rwe2stk3g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;18 |
 | **SAIC** | [MACH-TB Junior Mission Systems Engineer](https://www.wobo.ai/job/mach-tb-junior-mission-systems-engineer-at-saic-rvnw4o9mu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Crane, IN |  | Nov&nbsp;18 |
+| **Twitch** | [Software Engineer I, Commerce](https://www.wobo.ai/job/software-engineer-i-commerce-at-twitch-rxesfgysl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Seattle, WA +1 | \$111K to \$160K/yr | Nov&nbsp;17 |
+| **Mirantis** | [Software Engineer, Backend (Go)](https://www.wobo.ai/job/software-engineer-backend-go-at-mirantis-rx3k6xmsh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Raleigh, NC |  | Nov&nbsp;17 |
 | **Benchling** | [Software Engineer, CDC](https://www.wobo.ai/job/software-engineer-cdc-at-benchling-rwg44ecr6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (hybrid) |  | Nov&nbsp;17 |
 | **Cummins Apprenticeship** | [Combustion and Emissions Systems Engineer](https://www.wobo.ai/job/combustion-and-emissions-systems-engineer-at-cummins-apprenticeship-rtyoxw4wz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Columbus, IN |  | Nov&nbsp;17 |
 | **Fortinet** | [Early Careers: Software Developer Engineer](https://www.wobo.ai/job/early-careers-software-developer-engineer-at-fortinet-rtwgev3h8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Sunnyvale, CA (hybrid) | \$79K to \$97K/yr | Nov&nbsp;17 |
@@ -77,7 +79,6 @@
 | **Zoox** | [Contract Student Worker - Software Engineer (20/hrs week)](https://www.wobo.ai/job/contract-student-worker-software-engineer-20hrs-week-at-zoox-rfqtxwf3b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Foster City, CA | \$30/hr | Nov&nbsp;11 |
 | **Edmentum** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-edmentum-rc074gi5n/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Bloomington, MN (remote) | \$80K to \$100K/yr | Nov&nbsp;11 |
 | **Self Financial** | [Associate Software Engineer](https://www.wobo.ai/job/associate-software-engineer-at-self-financial-rc2gtapn8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Austin, TX (hybrid) |  | Nov&nbsp;11 |
-| **Twitch** | [Software Engineer I, Commerce](https://www.wobo.ai/job/software-engineer-i-commerce-at-twitch-rc0iu1jt8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA | \$127K to \$185K/yr | Nov&nbsp;11 |
 | **SharkNinja** | [Forward Deployed Engineer - Entry Level](https://www.wobo.ai/job/forward-deployed-engineer-entry-level-at-sharkninja-rbk9952wx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Needham, MA | \$95K to \$125K/yr | Nov&nbsp;11 |
 | **BNY** | [2027 BNY Analyst Program - Engineering (Developer) - New York, NY](https://www.wobo.ai/job/2027-bny-analyst-program-engineering-developer-new-york-ny-at-bny-r74y1sodt/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (hybrid) | \$52K to \$110K/yr | Nov&nbsp;11 |
 | **Fortinet** | [Jr. Software QA Engineer](https://www.wobo.ai/job/jr-software-qa-engineer-at-fortinet-r6u60w25t/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Union City, CA | \$88K to \$125K/yr | Nov&nbsp;11 |
@@ -212,7 +213,6 @@
 | **Leidos** | [Junior Software Developer](https://www.wobo.ai/job/junior-software-developer-at-leidos-n115n4mhn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | St. Louis, MO | \$70K to \$126K/yr | Oct&nbsp;22 |
 | **Amentum** | [Software Engineer 1](https://www.wobo.ai/job/software-engineer-1-at-amentum-mplcv9cy5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Hanover, MD | \$155K to \$185K/yr | Oct&nbsp;22 |
 | **Palantir Technologies** | [Forward Deployed Software Engineer, New Grad - Warp Speed](https://www.wobo.ai/job/forward-deployed-software-engineer-new-grad-warp-speed-at-palantir-technologies-mpxg65816/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$135K to \$145K/yr | Oct&nbsp;22 |
-| **True Anomaly** | [Software Engineer I, QA (New Grad)](https://www.wobo.ai/job/software-engineer-i-qa-new-grad-at-true-anomaly-mn34f07we/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Denver, CO | \$70K/yr | Oct&nbsp;22 |
 | **Aeva, Inc.** | [Systems Engineer, LiDAR Characterization](https://www.wobo.ai/job/systems-engineer-lidar-characterization-at-aeva-inc-mian0ywuv/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Mountain View, CA |  | Oct&nbsp;22 |
 | **Rendezvous Robotics** | [Flight Software Engineer (Early Career)](https://www.wobo.ai/job/flight-software-engineer-early-career-at-rendezvous-robotics-mn97j7j77/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Golden, CO | \$85K to \$115K/yr | Oct&nbsp;22 |
 | **Visionist, Inc** | [Junior Software Engineer](https://www.wobo.ai/job/junior-software-engineer-at-visionist-inc-m904mlzqi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Columbia, MD | \$127K to \$176K/yr | Oct&nbsp;22 |
@@ -290,6 +290,8 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **WM** | [Analyst I, Business Intelligence](https://www.wobo.ai/job/analyst-i-business-intelligence-at-wm-ruhpszlas/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Windsor, CT | \$69K to \$95K/yr | Nov&nbsp;17 |
+| **SBT Global, Inc** | [Jr. Data Analyst (BI Developer) - Korean Bilingual](https://www.wobo.ai/job/jr-data-analyst-bi-developer-korean-bilingual-at-sbt-global-inc-rx4nbj1vg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Plano, TX |  | Nov&nbsp;17 |
+| **Woongjin, Inc** | [Data Analyst (BI Developer)\_ Bilingual (Korean/ English)](https://www.wobo.ai/job/data-analyst-bi-developer_-bilingual-korean-english-at-woongjin-inc-rx4p5qt6r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Plano, TX |  | Nov&nbsp;17 |
 | **TeleSolv Consulting** | [Junior Business Intelligence Analyst](https://www.wobo.ai/job/junior-business-intelligence-analyst-at-telesolv-consulting-rte3r8xsb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Philadelphia, PA |  | Nov&nbsp;17 |
 | **Roblox** | [\[2027\] Data Scientist - PhD Early Career - Safety](https://www.wobo.ai/job/2027-data-scientist-phd-early-career-safety-at-roblox-rtgtlhx1y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | San Mateo, CA (hybrid) | \$186K to \$221K/yr | Nov&nbsp;16 |
 | **PNC** | [Business Analytics Specialist - Enterprise Risk Management](https://www.wobo.ai/job/business-analytics-specialist-enterprise-risk-management-at-pnc-rr21ieqw5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pittsburgh, PA | \$53K to \$96K/yr | Nov&nbsp;15 |
@@ -398,6 +400,7 @@
 | **Cummins DEI** | [Electronic Systems Product Engineer](https://www.wobo.ai/job/electronic-systems-product-engineer-at-cummins-dei-rutoppat1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Galesburg, MI |  | Nov&nbsp;17 |
 | **Honeywell** | [Advanced Manufacturing Engineer I](https://www.wobo.ai/job/advanced-manufacturing-engineer-i-at-honeywell-ruj8dcj5z/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Palmetto, FL |  | Nov&nbsp;17 |
 | **TOMORROW HIRE** | [Junior Controls Engineer](https://www.wobo.ai/job/junior-controls-engineer-at-tomorrow-hire-rtvdt514o/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$70K to \$80K/yr | Nov&nbsp;17 |
+| **City of New York** | [Assistant Electrical Engineer](https://www.wobo.ai/job/assistant-electrical-engineer-at-city-of-new-york-rx6tgffst/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Queens, NY |  | Nov&nbsp;17 |
 | **Pond & Company** | [Electrical Engineer I](https://www.wobo.ai/job/electrical-engineer-i-at-pond-company-rsklmanqx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Peachtree Corners, GA |  | Nov&nbsp;17 |
 | **SAIC** | [Junior Electrical Engineer](https://www.wobo.ai/job/junior-electrical-engineer-at-saic-rs2bbpfoi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Panama City Beach, FL |  | Nov&nbsp;17 |
 | **Aerospace** | [Test Engineer I (2nd Shift)](https://www.wobo.ai/job/test-engineer-i-2nd-shift-at-aerospace-rrlg19yj0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Phoenix, AZ |  | Nov&nbsp;17 |
@@ -546,7 +549,6 @@
 | **ChampionX** | [Mechanical Engineer](https://www.wobo.ai/job/mechanical-engineer-at-championx-q1arf1y4y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Broken Arrow, OK |  | Nov&nbsp;5 |
 | **Amentum** | [Early Career Spaceflight Hardware Propulsion Engineer](https://www.wobo.ai/job/early-career-spaceflight-hardware-propulsion-engineer-at-amentum-q2pd4pyrf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX | from \$65K/yr | Nov&nbsp;5 |
 | **Ultima Genomics** | [Firmware Engineer I](https://www.wobo.ai/job/firmware-engineer-i-at-ultima-genomics-pzi1lcrcc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Fremont, CA | \$95K to \$115K/yr | Nov&nbsp;5 |
-| **Relativity Space** | [Propulsion Integration & Test Engineer I, First shift](https://www.wobo.ai/job/propulsion-integration-test-engineer-i-first-shift-at-relativity-space-pzidwit5l/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Long Beach, CA | \$93K to \$139K/yr | Nov&nbsp;5 |
 | **SpaceX** | [New Graduate Engineer, Mechanical - Satellites (Starlink)](https://www.wobo.ai/job/new-graduate-engineer-mechanical-satellites-starlink-at-spacex-pznmim87k/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Redmond, WA | \$100K to \$135K/yr | Nov&nbsp;5 |
 | ↳ | [New Graduate Engineer, Electrical - Satellites (Starlink)](https://www.wobo.ai/job/new-graduate-engineer-electrical-satellites-starlink-at-spacex-pznmh2wdk/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Redmond, WA | \$105K to \$145K/yr | Nov&nbsp;5 |
 | **Shield** | [Electrical Engineer I, X-BAT (New Grad)](https://www.wobo.ai/job/electrical-engineer-i-x-bat-new-grad-at-shield-rnh2uvnb9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Seattle, WA |  | Nov&nbsp;5 |
