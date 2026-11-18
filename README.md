@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**597 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 1:51 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**600 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 2:51 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (41) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (23) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (259) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (218) · [AI and ML](#entry-level-ai-and-ml-jobs) (41) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (23) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (261) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -20,6 +20,7 @@
 | **Fantom Corporation** | [Software Engineer Level 1](https://www.wobo.ai/job/software-engineer-level-1-at-fantom-corporation-rsdrxo5t9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Hanover, MD |  | Nov&nbsp;17 |
 | ↳ | [RF Software Engineer Level 1](https://www.wobo.ai/job/rf-software-engineer-level-1-at-fantom-corporation-rsdroqae1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hanover, MD |  | Nov&nbsp;17 |
 | **Fantom Corporation** | [Software Engineer Level 0](https://www.wobo.ai/job/software-engineer-level-0-at-fantom-corporation-rsdrw85fa/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Hanover, MD |  | Nov&nbsp;16 |
+| **Tandem Diabetes Care** | [Embedded Software Engineer I](https://www.wobo.ai/job/embedded-software-engineer-i-at-tandem-diabetes-care-rvb53tj9o/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | CA (remote) | \$39 to \$49/hr | Nov&nbsp;16 |
 | **SBT Global, Inc** | [Junior Full Stack Developer - Bilingual in Korean](https://www.wobo.ai/job/junior-full-stack-developer-bilingual-in-korean-at-sbt-global-inc-rt5bin5zs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Plano, TX | \$77K/yr | Nov&nbsp;16 |
 | **RR Donnelley** | [Associate Software Developer (Manufacturing)](https://www.wobo.ai/job/associate-software-developer-manufacturing-at-rr-donnelley-rt7d73t7u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX | \$64K to \$98K/yr | Nov&nbsp;16 |
 | **CrossCountry Consulting** | [Jr. Forward Deployed Software Engineer - (VA)](https://www.wobo.ai/job/jr-forward-deployed-software-engineer-va-at-crosscountry-consulting-rse1shssg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | McLean, VA (hybrid) | \$90K to \$125K/yr | Nov&nbsp;16 |
@@ -239,6 +240,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **Mission Bit** | [Spring 2027 AI Teaching Assistant - remote](https://www.wobo.ai/job/spring-2027-ai-teaching-assistant-remote-at-mission-bit-rssv5wza3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (remote) | \$23/hr | Nov&nbsp;17 |
 | **Free Market Health's** | [AI Engineer I](https://www.wobo.ai/job/ai-engineer-i-at-free-market-healths-rs795kyv2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pittsburgh, PA |  | Nov&nbsp;17 |
+| **Exelixis** | [Associate Engineer- AI and Agentics](https://www.wobo.ai/job/associate-engineer-ai-and-agentics-at-exelixis-rv68e3pwd/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Alameda, CA | \$115K to \$145K/yr | Nov&nbsp;16 |
 | **Silna Health** | [AI Deployment Analyst](https://www.wobo.ai/job/ai-deployment-analyst-at-silna-health-rrbin7lsz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY |  | Nov&nbsp;16 |
 | **Truist** | [Associate AI & Data Consultant - Wealth Data Delivery](https://www.wobo.ai/job/associate-ai-data-consultant-wealth-data-delivery-at-truist-rugotmyzj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Charlotte, NC |  | Nov&nbsp;15 |
 | **NVIDIA** | [Deep Learning Framework Communications Engineer - New College Grad 2026](https://www.wobo.ai/job/deep-learning-framework-communications-engineer-new-college-grad-2026-at-nvidia-rp8nl06ni/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Santa Clara, CA | \$124K to \$196K/yr | Nov&nbsp;13 |
@@ -266,7 +268,6 @@
 | **Bottomline** | [AI Enablement Analyst](https://www.wobo.ai/job/ai-enablement-analyst-at-bottomline-p7zr7dj8r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Portsmouth, NH |  | Nov&nbsp;2 |
 | **Bristol Myers Squibb** | [Associate Engineer, Analytical AI Engineering](https://www.wobo.ai/job/associate-engineer-analytical-ai-engineering-at-bristol-myers-squibb-olhokp7wp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Princeton, NJ | \$81K to \$98K/yr | Oct&nbsp;30 |
 | **Applied Materials** | [New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)](https://www.wobo.ai/job/new-college-grad-computational-physics-agentic-ai-engineer-doctorate-degree-spring-2027-ormdyhrng/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Santa Clara, CA | \$138K to \$190K/yr | Oct&nbsp;29 |
-| **Exelixis** | [Associate Engineer- AI and Agentics](https://www.wobo.ai/job/associate-engineer-ai-and-agentics-at-exelixis-oe4u5tcmn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Alameda, CA | \$115K to \$145K/yr | Oct&nbsp;28 |
 | **Oxbridge Health** | [AI Engineer](https://www.wobo.ai/job/ai-engineer-at-oxbridge-health-nwqie38uw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Norwalk, CT |  | Oct&nbsp;28 |
 | **Hearst** | [2027 Hearst AI Newsroom Developer Fellowship Program](https://www.wobo.ai/job/2027-hearst-ai-newsroom-developer-fellowship-program-at-hearst-nl6fnrj7o/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Albany, NY (hybrid) |  | Oct&nbsp;26 |
 | **WebMD** | [Associate AI Research & Operations Analyst](https://www.wobo.ai/job/associate-ai-research-operations-analyst-at-webmd-n7fjt3wdf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | El Segundo, CA | \$60K/yr | Oct&nbsp;26 |
@@ -393,6 +394,8 @@
 | **SAIC** | [Junior Electrical Engineer](https://www.wobo.ai/job/junior-electrical-engineer-at-saic-rs2bbpfoi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Panama City Beach, FL |  | Nov&nbsp;17 |
 | **Aerospace** | [Test Engineer I (2nd Shift)](https://www.wobo.ai/job/test-engineer-i-2nd-shift-at-aerospace-rrlg19yj0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Phoenix, AZ |  | Nov&nbsp;17 |
 | **Quantum Space** | [Mechanical Engineer I](https://www.wobo.ai/job/mechanical-engineer-i-at-quantum-space-rtn9kfmva/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Rockville, MD (hybrid) | \$85K to \$110K/yr | Nov&nbsp;16 |
+| **Microchip Technology Inc** | [Engineer I - Verification](https://www.wobo.ai/job/engineer-i-verification-at-microchip-technology-inc-rv5y5ic5s/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Chandler, AZ |  | Nov&nbsp;16 |
+| **Daimler Truck Financial Services** | [Electrical Engineer I](https://www.wobo.ai/job/electrical-engineer-i-at-daimler-truck-financial-services-rv6bjtdsb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Gaffney, SC | \$71K to \$91K/yr | Nov&nbsp;16 |
 | **Catalent** | [Manufacturing Engineer I](https://www.wobo.ai/job/manufacturing-engineer-i-at-catalent-ruq0wcl47/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Diego, CA | \$75K to \$80K/yr | Nov&nbsp;16 |
 | **Brunswick Corporation** | [Vibration Test Engineer](https://www.wobo.ai/job/vibration-test-engineer-at-brunswick-corporation-rtub49f4y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Fond du Lac, WI | \$63K to \$101K/yr | Nov&nbsp;16 |
 | **Syska Hennessy Group** | [Commissioning Agent I - Electrical / Mechanical](https://www.wobo.ai/job/commissioning-agent-i-electricalmechanical-at-syska-hennessy-group-rtnb6svno/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Charlotte, NC | \$58K to \$87K/yr | Nov&nbsp;16 |
