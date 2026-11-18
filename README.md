@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**598 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 12:52 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**597 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 1:51 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (41) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (23) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (259)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (41) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (23) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (259) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -311,7 +311,6 @@
 | **Baker Tilly** | [Associate Data Engineer](https://www.wobo.ai/job/associate-data-engineer-at-baker-tilly-r0tn26ylc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Madison, WI | \$86K to \$163K/yr | Nov&nbsp;9 |
 | **Amentum** | [Jr. Data Engineer](https://www.wobo.ai/job/jr-data-engineer-at-amentum-r1ou0d7js/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Springfield, VA (hybrid) | \$130K to \$160K/yr | Nov&nbsp;9 |
 | **Jerry.ai** | [Associate Data Scientist](https://www.wobo.ai/job/associate-data-scientist-at-jerryai-qrum9efbc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (remote) |  | Nov&nbsp;9 |
-| **Visa** | [Associate Data Engineer](https://www.wobo.ai/job/associate-data-engineer-at-visa-qwwhdbjnx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Foster City, CA | \$102K to \$158K/yr | Nov&nbsp;8 |
 | **Trinity University** | [Part-Time Faculty - Business Analytics](https://www.wobo.ai/job/part-time-faculty-business-analytics-at-trinity-university-qr2k31kjy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | San Antonio, TX |  | Nov&nbsp;8 |
 | **Cardinal Health** | [Data & Analytics Early Career Development Program (Embark)](https://www.wobo.ai/job/data-analytics-early-career-development-program-embark-at-cardinal-health-pvt7fijmd/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Placentia, CA (hybrid) | \$80K/yr | Nov&nbsp;4 |
 | **Sony** | [Associate Data Analyst](https://www.wobo.ai/job/associate-data-analyst-at-sony-pr7z1r4nu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Diego, CA (hybrid) | \$76K to \$102K/yr | Nov&nbsp;3 |
