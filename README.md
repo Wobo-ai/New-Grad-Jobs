@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**630 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 3:01 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**631 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 3:01 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (218) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (46) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (218) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (46) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (280) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -440,6 +440,7 @@
 | **Catalent** | [Manufacturing Engineer I](https://www.wobo.ai/job/manufacturing-engineer-i-at-catalent-ruq0wcl47/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Diego, CA | \$75K to \$80K/yr | Nov&nbsp;16 |
 | **Brunswick Corporation** | [Vibration Test Engineer](https://www.wobo.ai/job/vibration-test-engineer-at-brunswick-corporation-rtub49f4y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Fond du Lac, WI | \$63K to \$101K/yr | Nov&nbsp;16 |
 | **Austal USA** | [Electrical Engineer I](https://www.wobo.ai/job/electrical-engineer-i-at-austal-usa-rygxnf4r8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mobile, AL |  | Nov&nbsp;16 |
+| **ASML** | [FLS Production Engineer - G2M & Mechanical Competency (JG06)(CWW – D2)](https://www.wobo.ai/job/fls-production-engineer-g2m-mechanical-competency-jg06cww-d2-at-asml-s2rze7ghv/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Wilton, CT | \$75K to \$138K/yr | Nov&nbsp;16 |
 | **Syska Hennessy Group** | [Commissioning Agent I - Electrical / Mechanical](https://www.wobo.ai/job/commissioning-agent-i-electricalmechanical-at-syska-hennessy-group-rtnb6svno/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Charlotte, NC | \$58K to \$87K/yr | Nov&nbsp;16 |
 | **Micron Technology** | [New College Grad - Shift Process Engineer](https://www.wobo.ai/job/new-college-grad-shift-process-engineer-at-micron-technology-rr06mib69/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Manassas, VA | \$85K to \$145K/yr | Nov&nbsp;15 |
 | **Medtronic** | [Manufacturing Engineer I, Assembly Operations](https://www.wobo.ai/job/manufacturing-engineer-i-assembly-operations-at-medtronic-ruu37k7sx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Danvers, MA | \$70K to \$104K/yr | Nov&nbsp;15 |
