@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**629 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**628 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (278) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -676,7 +676,6 @@
 | **Amentum** | [Early Career Mechanical Process Engineer](https://www.wobo.ai/job/early-career-mechanical-process-engineer-at-amentum-m7u1ly7ow/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Tullahoma, TN | \$70K to \$90K/yr | Oct&nbsp;20 |
 | **Abbott** | [Manufacturing Process Engineer](https://www.wobo.ai/job/manufacturing-process-engineer-at-abbott-m8dwnrmqi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Temecula, CA | \$61K to \$123K/yr | Oct&nbsp;20 |
 | **Varda Space Industries** | [Propulsion Engineer I - Hardware and Bus Systems](https://www.wobo.ai/job/propulsion-engineer-i-hardware-and-bus-systems-at-varda-space-industries-m5eka0ggx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | El Segundo, CA | \$109K to \$139K/yr | Oct&nbsp;20 |
-| **Shield** | [Power Electronics - Electrical Engineer I](https://www.wobo.ai/job/power-electronics-electrical-engineer-i-at-shield-rnh5zx52p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Seattle, WA |  | Oct&nbsp;20 |
 
 [Back to sections](#sections)
 
