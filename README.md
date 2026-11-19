@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**624 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 2:48 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**624 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 3:53 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (219) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (218) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (275) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -55,7 +55,6 @@
 | ↳ | [Entry-level Software Engineer–Developers](https://www.wobo.ai/job/entry-level-software-engineerdevelopers-at-boeing-rtvffr6e2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | El Segundo, CA | \$83K to \$113K/yr | Nov&nbsp;15 |
 | **Amentum** | [Entry Level Software Engineer - SECRET](https://www.wobo.ai/job/entry-level-software-engineer-secret-at-amentum-rt05p3ak6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Dahlgren, VA | \$75K to \$90K/yr | Nov&nbsp;15 |
 | **Aretum** | [Junior Web Developer/Engineer - Contingent](https://www.wobo.ai/job/junior-web-developerengineer-contingent-at-aretum-rijstjxra/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | McLean, VA (remote) | \$75K to \$100K/yr | Nov&nbsp;14 |
-| **The Redesign Group** | [Associate Cloud Engineer L1](https://www.wobo.ai/job/associate-cloud-engineer-l1-at-the-redesign-group-ri5qspdhs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;14 |
 | **Twitch** | [Software Engineer I, Payments](https://www.wobo.ai/job/software-engineer-i-payments-at-twitch-rj9zxvtge/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA | \$127K to \$185K/yr | Nov&nbsp;13 |
 | **CrossCountry Consulting** | [Jr. Forward Deployed Software Engineer - (PA)](https://www.wobo.ai/job/jr-forward-deployed-software-engineer-pa-at-crosscountry-consulting-rse1rwdkd/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Philadelphia, PA (hybrid) | \$90K to \$125K/yr | Nov&nbsp;13 |
 | **CMTelematics** | [Software Engineer I, Cloud](https://www.wobo.ai/job/software-engineer-i-cloud-at-cmtelematics-rjb5yc2iz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Cambridge, MA (hybrid) | \$93K to \$116K/yr | Nov&nbsp;13 |
@@ -405,6 +404,7 @@
 | **SAIC** | [Jr. Hardware Design Engineer](https://www.wobo.ai/job/jr-hardware-design-engineer-at-saic-rvnwcpmjx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | College Park, MD |  | Nov&nbsp;18 |
 | **Aerospace** | [Advanced Manufacturing Engineer I](https://www.wobo.ai/job/advanced-manufacturing-engineer-i-at-aerospace-rvl1bl0xk/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Greer, SC |  | Nov&nbsp;18 |
 | **RTX** | [Mechanical Engineer I-AMRAAM](https://www.wobo.ai/job/mechanical-engineer-i-amraam-at-rtx-rxu69ydfm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | McKinney, TX | \$57K to \$109K/yr | Nov&nbsp;17 |
+| **Leidos** | [Electrical Engineer – Radar Systems Analysis Entry Level](https://www.wobo.ai/job/electrical-engineer-radar-systems-analysis-entry-level-at-leidos-ryu9iid47/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Huntsville, AL | \$58K to \$105K/yr | Nov&nbsp;17 |
 | **IMEG** | [Mechanical Engineering New Graduate \| Melbourne, FL](https://www.wobo.ai/job/mechanical-engineering-new-graduate-melbourne-fl-at-imeg-rxtuyhtyc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Melbourne, FL |  | Nov&nbsp;17 |
 | **GE Vernova** | [Engineer 1 - Firmware Engineer](https://www.wobo.ai/job/engineer-1-firmware-engineer-at-ge-vernova-ryd06z9ng/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Salem, VA | \$80K to \$120K/yr | Nov&nbsp;17 |
 | **Austal USA** | [Mechanical Engineer I](https://www.wobo.ai/job/mechanical-engineer-i-at-austal-usa-rygxmi0yy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mobile, AL |  | Nov&nbsp;17 |
