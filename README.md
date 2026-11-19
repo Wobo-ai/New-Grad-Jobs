@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**625 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 3:55 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**624 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 12:52 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -157,7 +157,7 @@
 | **Skydio** | [Solutions Engineer – State, Local, Educational (SLED) Campus Security](https://www.wobo.ai/job/solutions-engineer-state-local-educational-sled-campus-security-at-skydio-pt8y469cs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Mateo, CA (remote) | \$150K to \$200K/yr | Nov&nbsp;5 |
 | **Raytheon Australia** | [Systems Engineer I - Open Systems Solutions (Onsite)](https://www.wobo.ai/job/systems-engineer-i-open-systems-solutions-onsite-at-raytheon-australia-q0qo5ij3t/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Cedar Rapids, IA | \$57K to \$109K/yr | Nov&nbsp;4 |
 | **Priceline** | [Associate Software Engineer](https://www.wobo.ai/job/associate-software-engineer-at-priceline-pt1kxhm79/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (hybrid) | \$100K to \$125K/yr | Nov&nbsp;4 |
-| **Mastercard** | [Site Reliability Engineer I](https://www.wobo.ai/job/site-reliability-engineer-i-at-mastercard-ptrtfsfjj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | O'Fallon, MO | \$61K to \$102K/yr | Nov&nbsp;4 |
+| **Mastercard** | [Site Reliability Engineer I](https://www.wobo.ai/job/site-reliability-engineer-i-at-mastercard-ptrtemx4v/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | O'Fallon, MO | \$61K to \$102K/yr | Nov&nbsp;4 |
 | **Leidos** | [Entry Level Software Tester](https://www.wobo.ai/job/entry-level-software-tester-at-leidos-pzphtbeml/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Huntsville, AL | \$51K to \$92K/yr | Nov&nbsp;4 |
 | **Jet Propulsion Laboratory** | [Power Systems Engineer I (345A)](https://www.wobo.ai/job/power-systems-engineer-i-345a-at-jet-propulsion-laboratory-q1zi55roe/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pasadena, CA | \$99K to \$119K/yr | Nov&nbsp;4 |
 | **GDIT** | [Jr. Net, C#, SQL Developer - Active Top Secret required](https://www.wobo.ai/job/jr-net-c-sql-developer-active-top-secret-required-at-gdit-pukpelj9i/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Washington, DC | \$81K to \$92K/yr | Nov&nbsp;4 |
@@ -391,7 +391,6 @@
 | **American Express** | [Associate - Product Design](https://www.wobo.ai/job/associate-product-design-at-american-express-q3w2adqlo/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Phoenix, AZ (hybrid) |  | Nov&nbsp;7 |
 | **TESO Life** | [Product Design Associate (PT)](https://www.wobo.ai/job/product-design-associate-pt-at-teso-life-q34obcjf7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | NY | \$22 to \$25/hr | Nov&nbsp;7 |
 | **Inktavo + OrderMyGear** | [Associate Product Designer](https://www.wobo.ai/job/associate-product-designer-at-inktavo-ordermygear-pkug5798c/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Dallas, TX (remote) |  | Nov&nbsp;5 |
-| **Mastercard** | [Associate Product Specialist, Product Management](https://www.wobo.ai/job/associate-product-specialist-product-management-at-mastercard-nwq93dt1a/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | O'Fallon, MO | \$67K to \$111K/yr | Oct&nbsp;26 |
 
 [Back to sections](#sections)
 
