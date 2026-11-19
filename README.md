@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**624 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**628 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (215) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (277) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (277) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -23,6 +23,7 @@
 | **Sierra Nevada Corporation** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-sierra-nevada-corporation-rylnkusbh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Nov&nbsp;17 |
 | **RTX** | [Software Engineer I (Onsite)](https://www.wobo.ai/job/software-engineer-i-onsite-at-rtx-rxu5q666k/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | St. Petersburg, FL +4 | \$69K to \$131K/yr | Nov&nbsp;17 |
 | **Rocket Companies** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-rocket-companies-ry5ueomy8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Detroit, MI |  | Nov&nbsp;17 |
+| **Roche** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-roche-rzjxz546m/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA (hybrid) | \$90K to \$166K/yr | Nov&nbsp;17 |
 | **Northwestern Mutual** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-northwestern-mutual-rzcil3tdx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Milwaukee, WI (hybrid) | \$76K to \$113K/yr | Nov&nbsp;17 |
 | **Relativity Space** | [Software Engineer I (Factory Platform)](https://www.wobo.ai/job/software-engineer-i-factory-platform-at-relativity-space-rxfnytewy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Long Beach, CA | \$115K to \$173K/yr | Nov&nbsp;17 |
 | **Mirantis** | [Software Engineer, Backend (Go)](https://www.wobo.ai/job/software-engineer-backend-go-at-mirantis-rx3k6xmsh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Raleigh, NC |  | Nov&nbsp;17 |
@@ -57,6 +58,7 @@
 | **Aretum** | [Junior Web Developer/Engineer - Contingent](https://www.wobo.ai/job/junior-web-developerengineer-contingent-at-aretum-rijstjxra/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | McLean, VA (remote) | \$75K to \$100K/yr | Nov&nbsp;14 |
 | **Twitch** | [Software Engineer I, Payments](https://www.wobo.ai/job/software-engineer-i-payments-at-twitch-rj9zxvtge/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA | \$127K to \$185K/yr | Nov&nbsp;13 |
 | **CrossCountry Consulting** | [Jr. Forward Deployed Software Engineer - (PA)](https://www.wobo.ai/job/jr-forward-deployed-software-engineer-pa-at-crosscountry-consulting-rse1rwdkd/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Philadelphia, PA (hybrid) | \$90K to \$125K/yr | Nov&nbsp;13 |
+| **Zoox** | [Contract Student Worker - Software Engineer (40hrs/wk)](https://www.wobo.ai/job/contract-student-worker-software-engineer-40hrswk-at-zoox-s1htsft16/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Foster City, CA | \$30/hr | Nov&nbsp;13 |
 | **CMTelematics** | [Software Engineer I, Cloud](https://www.wobo.ai/job/software-engineer-i-cloud-at-cmtelematics-rjb5yc2iz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Cambridge, MA (hybrid) | \$93K to \$116K/yr | Nov&nbsp;13 |
 | **K Group Companies** | [Systems Engineer 1](https://www.wobo.ai/job/systems-engineer-1-at-k-group-companies-rj977k09e/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Grand Rapids, MI |  | Nov&nbsp;13 |
 | **Oracle** | [Site Reliability Engineer - OCI (Start Date: Feb 2027)](https://www.wobo.ai/job/site-reliability-engineer-oci-start-date-feb-2027-at-oracle-rex0qbodg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Nashville, TN | \$59K to \$118K/yr | Nov&nbsp;13 |
@@ -285,6 +287,8 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Blue Cross Blue Shield of Michigan** | [Data Science Analyst I](https://www.wobo.ai/job/data-science-analyst-i-at-blue-cross-blue-shield-of-michigan-s0on84qs3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Detroit, MI (hybrid) |  | Nov&nbsp;19 |
+| **Zoox** | [Contract Student Worker - Data Scientist (20 hrs wk)](https://www.wobo.ai/job/contract-student-worker-data-scientist-20-hrs-wk-at-zoox-s1htrsut0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Foster City, CA | \$30/hr | Nov&nbsp;18 |
 | **Crest Industries** | [Data Engineer I](https://www.wobo.ai/job/data-engineer-i-at-crest-industries-rz0b76ctl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ruston, LA |  | Nov&nbsp;18 |
 | **LabCorp** | [RCM Data Analyst I - Hybrid](https://www.wobo.ai/job/rcm-data-analyst-i-hybrid-at-labcorp-ryzs6o0p6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Burlington, NC (hybrid) |  | Nov&nbsp;17 |
 | **Fifth Third Bank** | [Data Engineer I](https://www.wobo.ai/job/data-engineer-i-at-fifth-third-bank-rxgf6ctr1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Cincinnati, OH |  | Nov&nbsp;17 |
