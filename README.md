@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**621 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 4:53 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**622 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (214) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (214) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (277) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -393,6 +393,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **UL Solutions** | [Entry-Level Electrical Engineer - Power](https://www.wobo.ai/job/entry-level-electrical-engineer-power-at-ul-solutions-s1amg4f8w/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Northbrook, IL (hybrid) | \$65K to \$86K/yr | Nov&nbsp;19 |
 | **Door Controls USA** | [Mechanical Designer I](https://www.wobo.ai/job/mechanical-designer-i-at-door-controls-usa-rzs86v9j0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ben Wheeler, TX |  | Nov&nbsp;19 |
 | **WSP** | [Early Career Mechanical Engineer](https://www.wobo.ai/job/early-career-mechanical-engineer-at-wsp-rygg8t9n7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Atlanta, GA | \$68K to \$94K/yr | Nov&nbsp;18 |
 | **Cummins** | [EATON - Electronic Systems Product Engineer](https://www.wobo.ai/job/eaton-electronic-systems-product-engineer-at-cummins-rxtoyn3x7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Galesburg, MI |  | Nov&nbsp;18 |
