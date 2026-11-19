@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**624 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 12:52 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**621 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 1:46 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (219) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (40) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -232,7 +232,6 @@
 | **Leidos** | [Junior Automation Developer (UiPath)](https://www.wobo.ai/job/junior-automation-developer-uipath-at-leidos-mailioh6u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Alexandria, VA | \$70K to \$126K/yr | Oct&nbsp;20 |
 | **Aptiv** | [Associate Data Developer](https://www.wobo.ai/job/associate-data-developer-at-aptiv-mf308ylfx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Walnut Creek, CA |  | Oct&nbsp;20 |
 | **Quora** | [Full Stack Software Engineer, New Grad - Quora (Remote)](https://www.wobo.ai/job/full-stack-software-engineer-new-grad-quora-remote-at-quora-m07r8hgom/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$98K to \$139K/yr | Oct&nbsp;20 |
-| **Credence** | [Cloud Platform Engineer- Entry Level](https://www.wobo.ai/job/cloud-platform-engineer-entry-level-at-credence-lt6g22675/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | McLean, VA | \$70K to \$110K/yr | Oct&nbsp;20 |
 
 [Back to sections](#sections)
 
@@ -283,7 +282,6 @@
 | **Gate City Bank** | [AI Automation Engineer I](https://www.wobo.ai/job/ai-automation-engineer-i-at-gate-city-bank-m7z9rgsxz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Fargo, ND (hybrid) |  | Oct&nbsp;20 |
 | **Brain Co.** | [AI Product Engineer, 2027 New Grad](https://www.wobo.ai/job/ai-product-engineer-2027-new-grad-at-brain-co-m084pefda/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (hybrid) |  | Oct&nbsp;20 |
 | **Techop Solutions International** | [Junior Ai Prompt Engineer](https://www.wobo.ai/job/junior-ai-prompt-engineer-at-techop-solutions-international-lzn6groo8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Washington, DC |  | Oct&nbsp;20 |
-| **Node.Digital** | [Junior AI/ML Engineer](https://www.wobo.ai/job/junior-aiml-engineer-at-nodedigital-lt96r2q5u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Herndon, VA (hybrid) |  | Oct&nbsp;20 |
 
 [Back to sections](#sections)
 
@@ -299,7 +297,6 @@
 | **Roblox** | [\[2027\] Data Scientist - PhD Early Career - Safety](https://www.wobo.ai/job/2027-data-scientist-phd-early-career-safety-at-roblox-rtgtlhx1y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | San Mateo, CA (hybrid) | \$186K to \$221K/yr | Nov&nbsp;16 |
 | **PNC** | [Business Analytics Specialist - Enterprise Risk Management](https://www.wobo.ai/job/business-analytics-specialist-enterprise-risk-management-at-pnc-rr21ieqw5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pittsburgh, PA | \$53K to \$96K/yr | Nov&nbsp;15 |
 | **Marathon Petroleum Corporation** | [Audit Data Analyst I](https://www.wobo.ai/job/audit-data-analyst-i-at-marathon-petroleum-corporation-ruo1628jr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;15 |
-| **Auto Club Enterprises** | [Data Scientist 1](https://www.wobo.ai/job/data-scientist-1-at-auto-club-enterprises-rr0ovryq7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Coppell, TX (hybrid) |  | Nov&nbsp;15 |
 | **UT Health San Antonio Staff Positions** | [Clinical Business Intelligence Analyst - Associate](https://www.wobo.ai/job/clinical-business-intelligence-analyst-associate-at-ut-health-san-antonio-staff-positions-rijn49fd2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;14 |
 | **Washington University in St. Louis** | [Data Analyst (PRN/Remote) - Transplant Nephrology](https://www.wobo.ai/job/data-analyst-prnremote-transplant-nephrology-at-washington-university-in-st-louis-rczhdgac5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$17 to \$25/hr | Nov&nbsp;11 |
 | **Guidehouse** | [Jr. Data Scientist](https://www.wobo.ai/job/jr-data-scientist-at-guidehouse-rd0w88u34/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | McLean, VA | \$98K to \$163K/yr | Nov&nbsp;11 |
