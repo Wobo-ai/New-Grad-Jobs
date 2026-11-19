@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**628 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**629 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (277) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -378,7 +378,6 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **Target** | [Associate Product Designer- Furniture and Lighting](https://www.wobo.ai/job/associate-product-designer-furniture-and-lighting-at-target-rxtwcwm8q/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Minneapolis, MN | \$58K to \$105K/yr | Nov&nbsp;17 |
-| **Evernorth Health Services** | [Entry-Level Product Management Analyst - EviCore - Remote](https://www.wobo.ai/job/entry-level-product-management-analyst-evicore-remote-at-evernorth-health-services-ryomm9dbn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$27 to \$40/hr | Nov&nbsp;17 |
 | **RTX** | [Part Time Platform Product Design (Onsite)](https://www.wobo.ai/job/part-time-platform-product-design-onsite-at-rtx-rtt6wlt09/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Aurora, CO | \$37K to \$82K/yr | Nov&nbsp;16 |
 | **Bask Health** | [Junior UX Researcher](https://www.wobo.ai/job/junior-ux-researcher-at-bask-health-rf0968c1k/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Nov&nbsp;13 |
 | ↳ | [Junior UX Designer](https://www.wobo.ai/job/junior-ux-designer-at-bask-health-rf095kmla/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Nov&nbsp;13 |
@@ -407,8 +406,10 @@
 | **Lilac** | [Associate Process Engineer, Lithium Extraction](https://www.wobo.ai/job/associate-process-engineer-lithium-extraction-at-lilac-rw793mb7i/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Berkeley, CA |  | Nov&nbsp;18 |
 | **SAIC** | [Jr. Hardware Design Engineer](https://www.wobo.ai/job/jr-hardware-design-engineer-at-saic-rvnwcpmjx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | College Park, MD |  | Nov&nbsp;18 |
 | **Aerospace** | [Advanced Manufacturing Engineer I](https://www.wobo.ai/job/advanced-manufacturing-engineer-i-at-aerospace-rvl1bl0xk/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Greer, SC |  | Nov&nbsp;18 |
+| **Ultradent** | [Process Engineer](https://www.wobo.ai/job/process-engineer-at-ultradent-rz5zd26iy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Salt Lake City, UT |  | Nov&nbsp;17 |
 | **RTX** | [Mechanical Engineer I-AMRAAM](https://www.wobo.ai/job/mechanical-engineer-i-amraam-at-rtx-rxu69ydfm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | McKinney, TX | \$57K to \$109K/yr | Nov&nbsp;17 |
 | **Leidos** | [Electrical Engineer – Radar Systems Analysis Entry Level](https://www.wobo.ai/job/electrical-engineer-radar-systems-analysis-entry-level-at-leidos-ryu9iid47/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Huntsville, AL | \$58K to \$105K/yr | Nov&nbsp;17 |
+| **KLA** | [Semiconductor Field Service Engineer - New College Grads](https://www.wobo.ai/job/semiconductor-field-service-engineer-new-college-grads-at-kla-rzf8rv9uo/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boise, ID | \$29 to \$50/hr | Nov&nbsp;17 |
 | **IMEG** | [Mechanical Engineering New Graduate \| Melbourne, FL](https://www.wobo.ai/job/mechanical-engineering-new-graduate-melbourne-fl-at-imeg-rxtuyhtyc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Melbourne, FL |  | Nov&nbsp;17 |
 | **GE Vernova** | [Engineer 1 - Firmware Engineer](https://www.wobo.ai/job/engineer-1-firmware-engineer-at-ge-vernova-ryd06z9ng/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Salem, VA | \$80K to \$120K/yr | Nov&nbsp;17 |
 | **Austal USA** | [Mechanical Engineer I](https://www.wobo.ai/job/mechanical-engineer-i-at-austal-usa-rygxmi0yy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mobile, AL |  | Nov&nbsp;17 |
