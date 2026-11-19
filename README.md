@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**632 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 4:47 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**631 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 4:47 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (46) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (41) · [Data](#entry-level-data-jobs) (46) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -281,7 +281,6 @@
 | **Addepar** | [Product Manager - Early Career, AI Platform](https://www.wobo.ai/job/product-manager-early-career-ai-platform-at-addepar-mvwwfrwfe/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$83K to \$130K/yr | Oct&nbsp;23 |
 | **Exelixis** | [Engineer I - DevSecOps (Ai Security)](https://www.wobo.ai/job/engineer-i-devsecops-ai-security-at-exelixis-mppkt2tsp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Alameda, CA | \$144K to \$182K/yr | Oct&nbsp;22 |
 | **Gate City Bank** | [AI Automation Engineer I](https://www.wobo.ai/job/ai-automation-engineer-i-at-gate-city-bank-m7z9rgsxz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Fargo, ND (hybrid) |  | Oct&nbsp;20 |
-| **Brain Co.** | [AI Product Engineer, 2027 New Grad](https://www.wobo.ai/job/ai-product-engineer-2027-new-grad-at-brain-co-m084pefda/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (hybrid) |  | Oct&nbsp;20 |
 
 [Back to sections](#sections)
 
