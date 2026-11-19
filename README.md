@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**633 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 3:55 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**625 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 3:55 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (222) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -233,8 +233,6 @@
 | **Aptiv** | [Associate Data Developer](https://www.wobo.ai/job/associate-data-developer-at-aptiv-mf308ylfx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Walnut Creek, CA |  | Oct&nbsp;20 |
 | **Quora** | [Full Stack Software Engineer, New Grad - Quora (Remote)](https://www.wobo.ai/job/full-stack-software-engineer-new-grad-quora-remote-at-quora-m07r8hgom/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$98K to \$139K/yr | Oct&nbsp;20 |
 | **Credence** | [Cloud Platform Engineer- Entry Level](https://www.wobo.ai/job/cloud-platform-engineer-entry-level-at-credence-lt6g22675/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | McLean, VA | \$70K to \$110K/yr | Oct&nbsp;20 |
-| **RTX** | [Systems Engineer I - Signal Processing (Onsite)](https://www.wobo.ai/job/systems-engineer-i-signal-processing-onsite-at-rtx-m901a5v9y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Tucson, AZ | \$63K to \$120K/yr | Oct&nbsp;19 |
-| ↳ | [Systems Engineer I - Guidance, Navigation, and Control (Onsite)](https://www.wobo.ai/job/systems-engineer-i-guidance-navigation-and-control-onsite-at-rtx-m9017k4ng/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Tucson, AZ | \$63K to \$120K/yr | Oct&nbsp;19 |
 
 [Back to sections](#sections)
 
@@ -286,7 +284,6 @@
 | **Brain Co.** | [AI Product Engineer, 2027 New Grad](https://www.wobo.ai/job/ai-product-engineer-2027-new-grad-at-brain-co-m084pefda/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (hybrid) |  | Oct&nbsp;20 |
 | **Techop Solutions International** | [Junior Ai Prompt Engineer](https://www.wobo.ai/job/junior-ai-prompt-engineer-at-techop-solutions-international-lzn6groo8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Washington, DC |  | Oct&nbsp;20 |
 | **Node.Digital** | [Junior AI/ML Engineer](https://www.wobo.ai/job/junior-aiml-engineer-at-nodedigital-lt96r2q5u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Herndon, VA (hybrid) |  | Oct&nbsp;20 |
-| **Magna Electronics** | [Junior AI Enigneer](https://www.wobo.ai/job/junior-ai-enigneer-at-magna-electronics-lykbkq9lf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Troy, MI (hybrid) |  | Oct&nbsp;19 |
 
 [Back to sections](#sections)
 
@@ -676,11 +673,6 @@
 | **Varda Space Industries** | [Propulsion Engineer I - Hardware and Bus Systems](https://www.wobo.ai/job/propulsion-engineer-i-hardware-and-bus-systems-at-varda-space-industries-m5eka0ggx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | El Segundo, CA | \$109K to \$139K/yr | Oct&nbsp;20 |
 | **Shield** | [Power Electronics - Electrical Engineer I](https://www.wobo.ai/job/power-electronics-electrical-engineer-i-at-shield-rnh5zx52p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Seattle, WA |  | Oct&nbsp;20 |
 | **Arcadis** | [Industrial Wastewater Process Engineer](https://www.wobo.ai/job/industrial-wastewater-process-engineer-at-arcadis-lwil8h5lc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Tampa, FL (hybrid) | \$55K to \$82K/yr | Oct&nbsp;20 |
-| **Silicon Labs** | [RF Validation Engineer I](https://www.wobo.ai/job/rf-validation-engineer-i-at-silicon-labs-lz5s7ws0x/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Austin, TX | \$84K to \$156K/yr | Oct&nbsp;19 |
-| **RTX** | [Product Development Electrical Engineer I (Onsite)](https://www.wobo.ai/job/product-development-electrical-engineer-i-onsite-at-rtx-m03s0qset/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Tucson, AZ | \$57K to \$109K/yr | Oct&nbsp;19 |
-| **Micron Technology** | [New College Grad Process Engineer – Diffusion / Implant / Rapid Thermal Process](https://www.wobo.ai/job/new-college-grad-process-engineer-diffusionimplantrapid-thermal-process-at-micron-lz12tw3g8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Manassas, VA | \$74K to \$183K/yr | Oct&nbsp;19 |
-| **Leidos** | [Junior Electrical Engineer](https://www.wobo.ai/job/junior-electrical-engineer-at-leidos-m1hy0v6b0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Bridgewater, VA | \$58K to \$105K/yr | Oct&nbsp;19 |
-| **Entegris** | [Engineer I, Mechanical Engineering](https://www.wobo.ai/job/engineer-i-mechanical-engineering-at-entegris-m7xn7pbz5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Luis Obispo, CA | \$90K to \$95K/yr | Oct&nbsp;19 |
 
 [Back to sections](#sections)
 
