@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**628 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**628 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 12:57 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (278) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (217) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (46) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (278) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -279,7 +279,6 @@
 | **Exelixis** | [Engineer I - DevSecOps (Ai Security)](https://www.wobo.ai/job/engineer-i-devsecops-ai-security-at-exelixis-mppkt2tsp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Alameda, CA | \$144K to \$182K/yr | Oct&nbsp;22 |
 | **Gate City Bank** | [AI Automation Engineer I](https://www.wobo.ai/job/ai-automation-engineer-i-at-gate-city-bank-m7z9rgsxz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Fargo, ND (hybrid) |  | Oct&nbsp;20 |
 | **Brain Co.** | [AI Product Engineer, 2027 New Grad](https://www.wobo.ai/job/ai-product-engineer-2027-new-grad-at-brain-co-m084pefda/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (hybrid) |  | Oct&nbsp;20 |
-| **Techop Solutions International** | [Junior Ai Prompt Engineer](https://www.wobo.ai/job/junior-ai-prompt-engineer-at-techop-solutions-international-lzn6groo8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Washington, DC |  | Oct&nbsp;20 |
 
 [Back to sections](#sections)
 
@@ -288,6 +287,7 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **Blue Cross Blue Shield of Michigan** | [Data Science Analyst I](https://www.wobo.ai/job/data-science-analyst-i-at-blue-cross-blue-shield-of-michigan-s0on84qs3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Detroit, MI (hybrid) |  | Nov&nbsp;19 |
+| **Moffitt Cancer Center** | [DATA ENGINEER I](https://www.wobo.ai/job/data-engineer-i-at-moffitt-cancer-center-s2auwsjgj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | FL | \$94K to \$143K/yr | Nov&nbsp;18 |
 | **Zoox** | [Contract Student Worker - Data Scientist (20 hrs wk)](https://www.wobo.ai/job/contract-student-worker-data-scientist-20-hrs-wk-at-zoox-s1htrsut0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Foster City, CA | \$30/hr | Nov&nbsp;18 |
 | **Crest Industries** | [Data Engineer I](https://www.wobo.ai/job/data-engineer-i-at-crest-industries-rz0b76ctl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ruston, LA |  | Nov&nbsp;18 |
 | **LabCorp** | [RCM Data Analyst I - Hybrid](https://www.wobo.ai/job/rcm-data-analyst-i-hybrid-at-labcorp-ryzs6o0p6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Burlington, NC (hybrid) |  | Nov&nbsp;17 |
