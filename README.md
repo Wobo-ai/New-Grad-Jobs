@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**622 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 6:41 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**623 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 7:56 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (219) · [AI and ML](#entry-level-ai-and-ml-jobs) (40) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (273) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (40) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (273) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -15,6 +15,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **York Space Systems** | [Ground Software Engineer Junior](https://www.wobo.ai/job/ground-software-engineer-junior-at-york-space-systems-s10ovu46g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Denver, CO (hybrid) |  | Nov&nbsp;19 |
 | **Frost Bank** | [Engineer I - DevOps](https://www.wobo.ai/job/engineer-i-devops-at-frost-bank-s3ezsrx8y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;18 |
+| **Bracco** | [Software Engineer I - Bracco Medical Technologies](https://www.wobo.ai/job/software-engineer-i-bracco-medical-technologies-at-bracco-s42wk7u76/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States | \$90K to \$105K/yr | Nov&nbsp;18 |
 | **Bexar County** | [Applications Developer I](https://www.wobo.ai/job/applications-developer-i-at-bexar-county-s3mkwpbho/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | TX (hybrid) | \$72K to \$86K/yr | Nov&nbsp;18 |
 | **Cummins** | [EATON - Electronic Systems Engineer - Software](https://www.wobo.ai/job/eaton-electronic-systems-engineer-software-at-cummins-rxtozg7jf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Galesburg, MI |  | Nov&nbsp;18 |
 | **Thorlabs** | [Photonics Systems Engineer I](https://www.wobo.ai/job/photonics-systems-engineer-i-at-thorlabs-rwsafivy1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Newton, NJ | \$99K to \$105K/yr | Nov&nbsp;18 |
