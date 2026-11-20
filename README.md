@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**644 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:51 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**642 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:51 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (226) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (47) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (281) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (225) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (47) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (280) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -219,7 +219,7 @@
 | **RainFocus** | [Jr. UI Developer (Remote)](https://www.wobo.ai/job/jr-ui-developer-remote-at-rainfocus-nthfyrfgs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Any State (remote) |  | Oct&nbsp;27 |
 | **SambaNova** | [Cloud Platform Engineer - New Grad](https://www.wobo.ai/job/cloud-platform-engineer-new-grad-at-sambanova-s407l4343/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Austin, TX | \$131K to \$197K/yr | Oct&nbsp;27 |
 | **Esri** | [DevOps Engineer I – Azure](https://www.wobo.ai/job/devops-engineer-i-azure-at-esri-s2tjzib4q/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Redlands, CA | \$79K to \$133K/yr | Oct&nbsp;27 |
-| **Twitch** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-twitch-nkyq4ajme/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA +1 | \$127K to \$185K/yr | Oct&nbsp;26 |
+| **Twitch** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-twitch-nkyq4ajme/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA | \$127K to \$185K/yr | Oct&nbsp;26 |
 | **RTX** | [Systems Engineer I - Datalinks - Onsite](https://www.wobo.ai/job/systems-engineer-i-datalinks-onsite-at-rtx-nhozmpj7m/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Cedar Rapids, IA | \$57K to \$109K/yr | Oct&nbsp;25 |
 | **Northrop Grumman** | [Associate Software Engineer / Software Engineer](https://www.wobo.ai/job/associate-software-engineer-software-engineer-at-northrop-grumman-nlajbfvcs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Huntsville, AL | \$73K to \$109K/yr | Oct&nbsp;25 |
 | **Applied Materials** | [Global Software Support Engineer I](https://www.wobo.ai/job/global-software-support-engineer-i-at-applied-materials-ni68a4xmj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Austin, TX | \$70K to \$96K/yr | Oct&nbsp;25 |
@@ -238,7 +238,6 @@
 | **Sedgwick** | [Junior Forward Deployed Engineer](https://www.wobo.ai/job/junior-forward-deployed-engineer-at-sedgwick-mo7bjipak/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | FL (remote) |  | Oct&nbsp;21 |
 | **Jet Propulsion Laboratory** | [Robotics Systems Engineer I](https://www.wobo.ai/job/robotics-systems-engineer-i-at-jet-propulsion-laboratory-mppzmqumw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pasadena, CA | \$102K to \$123K/yr | Oct&nbsp;21 |
 | **Blue Yonder** | [Software Engineer I (Java Required)](https://www.wobo.ai/job/software-engineer-i-java-required-at-blue-yonder-mnduxi7x1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Dallas, TX (hybrid) | \$86K to \$108K/yr | Oct&nbsp;21 |
-| **Affirm** | [Analyst, Early Career (Full Stack)](https://www.wobo.ai/job/analyst-early-career-full-stack-at-affirm-me7avxvkw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (remote) | \$115K/yr | Oct&nbsp;21 |
 
 [Back to sections](#sections)
 
@@ -691,7 +690,6 @@
 | **Blue Origin** | [Engineer - Materials & Processes I (Propulsion) - Early Career (Evergreen)](https://www.wobo.ai/job/engineer-materials-processes-i-propulsion-early-career-evergreen-at-blue-origin-mgphhcy45/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Huntsville, AL | \$81K to \$114K/yr | Oct&nbsp;21 |
 | **Baker Hughes** | [Engineer 1, Project Engineering - Electrical](https://www.wobo.ai/job/engineer-1-project-engineering-electrical-at-baker-hughes-mfcs797v0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Turtle Creek, PA |  | Oct&nbsp;21 |
 | **Applied Materials** | [Process Engineer I, New College Grad - Bachelors (Billerica, MA)](https://www.wobo.ai/job/process-engineer-i-new-college-grad-bachelors-billerica-ma-at-applied-materials-mjon6kv4b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Billerica, MA | \$70K to \$96K/yr | Oct&nbsp;21 |
-| **Relativity Space** | [Offshore Recovery Electrical Engineer I](https://www.wobo.ai/job/offshore-recovery-electrical-engineer-i-at-relativity-space-me5v89wm0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Cape Canaveral, FL | \$90K to \$136K/yr | Oct&nbsp;21 |
 
 [Back to sections](#sections)
 
