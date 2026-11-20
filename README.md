@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**636 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 6:51 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**635 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 7:50 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (33) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (280) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (46) · [Security](#entry-level-security-jobs) (33) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -246,7 +246,6 @@
 | **ATOMS** | [AI Researcher - New Grad (BS/MS)](https://www.wobo.ai/job/ai-researcher-new-grad-bsms-at-atoms-rxobmhpu3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA | \$170K/yr | Nov&nbsp;17 |
 | ↳ | [AI Researcher - New Grad (PhD)](https://www.wobo.ai/job/ai-researcher-new-grad-phd-at-atoms-rxobnla59/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | San Francisco, CA | \$190K/yr | Nov&nbsp;17 |
 | **Mission Bit** | [Spring 2027 AI Teaching Assistant - remote](https://www.wobo.ai/job/spring-2027-ai-teaching-assistant-remote-at-mission-bit-rssv5wza3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (remote) | \$23/hr | Nov&nbsp;17 |
-| **Free Market Health's** | [AI Engineer I](https://www.wobo.ai/job/ai-engineer-i-at-free-market-healths-rs795kyv2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pittsburgh, PA |  | Nov&nbsp;17 |
 | **QTS** | [Enterprise AI Enablement Engineer I](https://www.wobo.ai/job/enterprise-ai-enablement-engineer-i-at-qts-rvhtfmaz5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ashburn, VA | \$96K to \$144K/yr | Nov&nbsp;16 |
 | **Leidos** | [AI Full Stack Developer](https://www.wobo.ai/job/ai-full-stack-developer-at-leidos-ruualmsk4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Ashburn, VA (hybrid) | \$70K to \$126K/yr | Nov&nbsp;16 |
 | **Silna Health** | [AI Deployment Analyst](https://www.wobo.ai/job/ai-deployment-analyst-at-silna-health-rrbin7lsz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY |  | Nov&nbsp;16 |
@@ -293,6 +292,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **Blue Cross Blue Shield of Michigan** | [Data Science Analyst I](https://www.wobo.ai/job/data-science-analyst-i-at-blue-cross-blue-shield-of-michigan-s0on84qs3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Detroit, MI (hybrid) |  | Nov&nbsp;19 |
 | **Specialized** | [Early Career Data Engineer](https://www.wobo.ai/job/early-career-data-engineer-at-specialized-s9y1cl0ma/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | CA | \$76K to \$104K/yr | Nov&nbsp;18 |
+| **Simmons Bank** | [Data Analyst I](https://www.wobo.ai/job/data-analyst-i-at-simmons-bank-sa6yv4x04/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Little Rock, AR |  | Nov&nbsp;18 |
 | **Moffitt Cancer Center** | [DATA ENGINEER I](https://www.wobo.ai/job/data-engineer-i-at-moffitt-cancer-center-s2auwsjgj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | FL | \$94K to \$143K/yr | Nov&nbsp;18 |
 | **Mass General Brigham** | [Data Analyst](https://www.wobo.ai/job/data-analyst-at-mass-general-brigham-s8l3w6h5k/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA | \$42K to \$60K/yr | Nov&nbsp;18 |
 | **Abercrombie & Fitch Co.** | [Assistant Analyst, Brand & Customer Analytics - A&F Co.](https://www.wobo.ai/job/assistant-analyst-brand-customer-analytics-af-co-at-abercrombie-fitch-co-s9wy78iqi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Columbus, OH (remote) | \$65K to \$75K/yr | Nov&nbsp;18 |
@@ -557,7 +557,6 @@
 | **Marathon Petroleum Corporation** | [Project Engineer - Instrumentation and Electrical](https://www.wobo.ai/job/project-engineer-instrumentation-and-electrical-at-marathon-petroleum-corporation-r8xryqfv4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Salt Lake City, UT |  | Nov&nbsp;10 |
 | **Intel** | [Design Verification Engineer](https://www.wobo.ai/job/design-verification-engineer-at-intel-r8wjky06y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Santa Clara, CA | \$106K to \$149K/yr | Nov&nbsp;10 |
 | **IMEG** | [Electrical Engineering New Graduate \| Scottsdale, AZ](https://www.wobo.ai/job/electrical-engineering-new-graduate-scottsdale-az-at-imeg-r9bc6cy35/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Scottsdale, AZ |  | Nov&nbsp;10 |
-| **GlobalFoundries** | [Semiconductor Fab Cleanroom Equipment Engineer (2027 New College Graduate)](https://www.wobo.ai/job/semiconductor-fab-cleanroom-equipment-engineer-2027-new-college-graduate-at-rdjv2lxta/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Essex Junction, VT | \$58K to \$101K/yr | Nov&nbsp;10 |
 | **First Quality** | [Process Engineer I](https://www.wobo.ai/job/process-engineer-i-at-first-quality-r8l8o5mcl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | PA |  | Nov&nbsp;10 |
 | **Catalent** | [Process Engineer I](https://www.wobo.ai/job/process-engineer-i-at-catalent-r91ck8w8g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Greenville, NC |  | Nov&nbsp;10 |
 | **LotusWorks** | [Junior Mechanical Field Engineer](https://www.wobo.ai/job/junior-mechanical-field-engineer-at-lotusworks-r6u9c6oy4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New Albany, OH |  | Nov&nbsp;10 |
