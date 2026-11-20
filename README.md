@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**642 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:51 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**644 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:51 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (225) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (47) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (280) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (226) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (47) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (281) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Oracle** | [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://www.wobo.ai/job/spring-2027-start-undergrad-software-engineer-oracle-cloud-infrastructure-oci-nashville-sbq4yi72a/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Nashville, TN |  | Nov&nbsp;20 |
 | **MetaPhase Consulting** | [Junior Forward Deployed Engineer](https://www.wobo.ai/job/junior-forward-deployed-engineer-at-metaphase-consulting-sb6vpohhm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Reston, VA | \$85K to \$115K/yr | Nov&nbsp;20 |
 | ↳ | [Junior Application Developer (Power Platform) for TBM](https://www.wobo.ai/job/junior-application-developer-power-platform-for-tbm-at-metaphase-consulting-sb6vmj8mh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Washington, DC | \$80K to \$100K/yr | Nov&nbsp;20 |
 | **Journal Technologies** | [Junior Data Integration Developer](https://www.wobo.ai/job/junior-data-integration-developer-at-journal-technologies-sah3txbvm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Los Angeles, CA +1 |  | Nov&nbsp;20 |
@@ -413,6 +414,7 @@
 | **UL Solutions** | [Electrical Engineer](https://www.wobo.ai/job/electrical-engineer-at-ul-solutions-sc8ifo3u2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Melville, NY |  | Nov&nbsp;20 |
 | **Zachry Group** | [Engineer I Mechanical](https://www.wobo.ai/job/engineer-i-mechanical-at-zachry-group-sc3q3hykh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX +3 |  | Nov&nbsp;20 |
 | ↳ | [Mechanical Engineer I](https://www.wobo.ai/job/mechanical-engineer-i-at-zachry-group-sc3q15dws/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Omaha, NE (hybrid) |  | Nov&nbsp;20 |
+| **Facllc** | [Electrical Designer I](https://www.wobo.ai/job/electrical-designer-i-at-facllc-sbs2s2m0u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Denver, CO |  | Nov&nbsp;20 |
 | **Rocket Lab Corporation** | [Radar RF Design Engineer I](https://www.wobo.ai/job/radar-rf-design-engineer-i-at-rocket-lab-corporation-scgvr9fum/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Long Beach, CA | \$88K to \$132K/yr | Nov&nbsp;20 |
 | **NOV** | [Associate Mechanical Engineer - Pathway Program](https://www.wobo.ai/job/associate-mechanical-engineer-pathway-program-at-nov-s8qpf0uy8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX |  | Nov&nbsp;20 |
 | **ABB** | [Associate Project Engineer (Electrical)](https://www.wobo.ai/job/associate-project-engineer-electrical-at-abb-sck7f6e12/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | NC |  | Nov&nbsp;19 |
