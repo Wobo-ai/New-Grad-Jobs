@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**633 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:48 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**634 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:45 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (222) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (32) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (277) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (222) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (32) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -308,7 +308,6 @@
 | **PNC** | [Business Analytics Specialist - Enterprise Risk Management](https://www.wobo.ai/job/business-analytics-specialist-enterprise-risk-management-at-pnc-rr21ieqw5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pittsburgh, PA | \$53K to \$96K/yr | Nov&nbsp;15 |
 | **Marathon Petroleum Corporation** | [Audit Data Analyst I](https://www.wobo.ai/job/audit-data-analyst-i-at-marathon-petroleum-corporation-ruo1628jr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;15 |
 | **UT Health San Antonio Staff Positions** | [Clinical Business Intelligence Analyst - Associate](https://www.wobo.ai/job/clinical-business-intelligence-analyst-associate-at-ut-health-san-antonio-staff-positions-rijn49fd2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;14 |
-| **Washington University in St. Louis** | [Data Analyst (PRN/Remote) - Transplant Nephrology](https://www.wobo.ai/job/data-analyst-prnremote-transplant-nephrology-at-washington-university-in-st-louis-rczhdgac5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$17 to \$25/hr | Nov&nbsp;11 |
 | **Guidehouse** | [Jr. Data Scientist](https://www.wobo.ai/job/jr-data-scientist-at-guidehouse-rd0w88u34/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | McLean, VA | \$98K to \$163K/yr | Nov&nbsp;11 |
 | **Rectangle Health** | [Junior Power BI Developer](https://www.wobo.ai/job/junior-power-bi-developer-at-rectangle-health-rbzcwmgyf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | White Plains, NY | \$75K to \$100K/yr | Nov&nbsp;11 |
 | **ChukMedia** | [Resident - Data Analytics](https://www.wobo.ai/job/resident-data-analytics-at-chukmedia-rc52dx4vm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | NY (hybrid) | \$20/hr | Nov&nbsp;11 |
@@ -404,6 +403,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **NOV** | [Associate Mechanical Engineer - Pathway Program](https://www.wobo.ai/job/associate-mechanical-engineer-pathway-program-at-nov-s8qpf0uy8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX |  | Nov&nbsp;20 |
 | **UL Solutions** | [Entry-Level Electrical Engineer - Power](https://www.wobo.ai/job/entry-level-electrical-engineer-power-at-ul-solutions-s1amg4f8w/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Northbrook, IL (hybrid) | \$65K to \$86K/yr | Nov&nbsp;19 |
 | **Door Controls USA** | [Mechanical Designer I](https://www.wobo.ai/job/mechanical-designer-i-at-door-controls-usa-rzs86v9j0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ben Wheeler, TX |  | Nov&nbsp;19 |
 | **RTX** | [Manufacturing Engineer I (Onsite - Puerto Rico)](https://www.wobo.ai/job/manufacturing-engineer-i-onsite-puerto-rico-at-rtx-s7udtw9fy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Santa Isabel +1 |  | Nov&nbsp;18 |
@@ -417,6 +417,7 @@
 | **Aerospace** | [Advanced Manufacturing Engineer I](https://www.wobo.ai/job/advanced-manufacturing-engineer-i-at-aerospace-rvl1bl0xk/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Greer, SC |  | Nov&nbsp;18 |
 | **Ultradent** | [Process Engineer](https://www.wobo.ai/job/process-engineer-at-ultradent-rz5zd26iy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Salt Lake City, UT |  | Nov&nbsp;17 |
 | **RTX** | [Mechanical Engineer I-AMRAAM](https://www.wobo.ai/job/mechanical-engineer-i-amraam-at-rtx-rxu69ydfm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | McKinney, TX | \$57K to \$109K/yr | Nov&nbsp;17 |
+| **Rehlko** | [Test Engineer - Switchgear](https://www.wobo.ai/job/test-engineer-switchgear-at-rehlko-s8rxe8oza/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Kohler, WI (hybrid) | \$76K to \$96K/yr | Nov&nbsp;17 |
 | **Leidos** | [Electrical Engineer – Radar Systems Analysis Entry Level](https://www.wobo.ai/job/electrical-engineer-radar-systems-analysis-entry-level-at-leidos-ryu9iid47/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Huntsville, AL | \$58K to \$105K/yr | Nov&nbsp;17 |
 | **KLA** | [Semiconductor Field Service Engineer - New College Grads](https://www.wobo.ai/job/semiconductor-field-service-engineer-new-college-grads-at-kla-rzf8rv9uo/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boise, ID | \$29 to \$50/hr | Nov&nbsp;17 |
 | **IMEG** | [Mechanical Engineering New Graduate \| Melbourne, FL](https://www.wobo.ai/job/mechanical-engineering-new-graduate-melbourne-fl-at-imeg-rxtuyhtyc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Melbourne, FL |  | Nov&nbsp;17 |
