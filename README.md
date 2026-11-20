@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**634 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:45 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**635 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 3:50 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (222) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (32) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (223) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (32) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -21,6 +21,7 @@
 | **Frost Bank** | [Engineer I - DevOps](https://www.wobo.ai/job/engineer-i-devops-at-frost-bank-s3ezsrx8y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;18 |
 | **Bracco** | [Software Engineer I - Bracco Medical Technologies](https://www.wobo.ai/job/software-engineer-i-bracco-medical-technologies-at-bracco-s42wk7u76/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States | \$90K to \$105K/yr | Nov&nbsp;18 |
 | **Bexar County** | [Applications Developer I](https://www.wobo.ai/job/applications-developer-i-at-bexar-county-s3mkwpbho/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | TX (hybrid) | \$72K to \$86K/yr | Nov&nbsp;18 |
+| **Abbott** | [Software Development Quality Engineer I](https://www.wobo.ai/job/software-development-quality-engineer-i-at-abbott-s8vsnfpkc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Sylmar, CA | \$74K to \$116K/yr | Nov&nbsp;18 |
 | **Cummins** | [EATON - Electronic Systems Engineer - Software](https://www.wobo.ai/job/eaton-electronic-systems-engineer-software-at-cummins-rxtozg7jf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Galesburg, MI |  | Nov&nbsp;18 |
 | **Thorlabs** | [Photonics Systems Engineer I](https://www.wobo.ai/job/photonics-systems-engineer-i-at-thorlabs-rwsafivy1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Newton, NJ | \$99K to \$105K/yr | Nov&nbsp;18 |
 | **Bask Health** | [Associate Solutions Engineer, New Grad](https://www.wobo.ai/job/associate-solutions-engineer-new-grad-at-bask-health-rwr1au8c8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;18 |
@@ -250,7 +251,6 @@
 | **QTS** | [Enterprise AI Enablement Engineer I](https://www.wobo.ai/job/enterprise-ai-enablement-engineer-i-at-qts-rvhtfmaz5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ashburn, VA | \$96K to \$144K/yr | Nov&nbsp;16 |
 | **Leidos** | [AI Full Stack Developer](https://www.wobo.ai/job/ai-full-stack-developer-at-leidos-ruualmsk4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Ashburn, VA (hybrid) | \$70K to \$126K/yr | Nov&nbsp;16 |
 | **Silna Health** | [AI Deployment Analyst](https://www.wobo.ai/job/ai-deployment-analyst-at-silna-health-rrbin7lsz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY |  | Nov&nbsp;16 |
-| **Truist** | [Associate AI & Data Consultant - Wealth Data Delivery](https://www.wobo.ai/job/associate-ai-data-consultant-wealth-data-delivery-at-truist-rugotmyzj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Charlotte, NC |  | Nov&nbsp;15 |
 | **NVIDIA** | [Deep Learning Framework Communications Engineer - New College Grad 2026](https://www.wobo.ai/job/deep-learning-framework-communications-engineer-new-college-grad-2026-at-nvidia-rp8nl06ni/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Santa Clara, CA | \$124K to \$196K/yr | Nov&nbsp;13 |
 | **Bask Health** | [Junior Applied AI Engineer](https://www.wobo.ai/job/junior-applied-ai-engineer-at-bask-health-rf092cklm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Nov&nbsp;13 |
 | **Travelers** | [Software Engineer I (TypeScript, React, AWS, AI-Assisted Development)](https://www.wobo.ai/job/software-engineer-i-typescript-react-aws-ai-assisted-development-at-travelers-rk8jgt9dh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hartford, CT (hybrid) | \$102K to \$168K/yr | Nov&nbsp;12 |
@@ -295,6 +295,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **Blue Cross Blue Shield of Michigan** | [Data Science Analyst I](https://www.wobo.ai/job/data-science-analyst-i-at-blue-cross-blue-shield-of-michigan-s0on84qs3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Detroit, MI (hybrid) |  | Nov&nbsp;19 |
 | **Moffitt Cancer Center** | [DATA ENGINEER I](https://www.wobo.ai/job/data-engineer-i-at-moffitt-cancer-center-s2auwsjgj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | FL | \$94K to \$143K/yr | Nov&nbsp;18 |
+| **Mass General Brigham** | [Data Analyst](https://www.wobo.ai/job/data-analyst-at-mass-general-brigham-s8l3w6h5k/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA | \$42K to \$60K/yr | Nov&nbsp;18 |
 | **Zoox** | [Contract Student Worker - Data Scientist (20 hrs wk)](https://www.wobo.ai/job/contract-student-worker-data-scientist-20-hrs-wk-at-zoox-s1htrsut0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Foster City, CA | \$30/hr | Nov&nbsp;18 |
 | **Crest Industries** | [Data Engineer I](https://www.wobo.ai/job/data-engineer-i-at-crest-industries-rz0b76ctl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ruston, LA |  | Nov&nbsp;18 |
 | **Schumacher Homes** | [Business Data Analyst I](https://www.wobo.ai/job/business-data-analyst-i-at-schumacher-homes-s4gwn0nrd/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Dallas, TX (hybrid) | \$51K to \$73K/yr | Nov&nbsp;17 |
