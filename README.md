@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**635 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 7:50 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**642 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 7:53 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (220) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (46) · [Security](#entry-level-security-jobs) (33) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (224) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (46) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (279) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,10 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **MetaPhase Consulting** | [Junior Forward Deployed Engineer](https://www.wobo.ai/job/junior-forward-deployed-engineer-at-metaphase-consulting-sb6vpohhm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Reston, VA | \$85K to \$115K/yr | Nov&nbsp;20 |
+| ↳ | [Junior Application Developer (Power Platform) for TBM](https://www.wobo.ai/job/junior-application-developer-power-platform-for-tbm-at-metaphase-consulting-sb6vmj8mh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Washington, DC | \$80K to \$100K/yr | Nov&nbsp;20 |
+| **Journal Technologies** | [Junior Data Integration Developer](https://www.wobo.ai/job/junior-data-integration-developer-at-journal-technologies-sah3txbvm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Los Angeles, CA +1 |  | Nov&nbsp;20 |
+| **Aerospace** | [Systems Engineer I - Next Generation Integrated Avionics](https://www.wobo.ai/job/systems-engineer-i-next-generation-integrated-avionics-at-aerospace-saguyhp10/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Phoenix, AZ (hybrid) |  | Nov&nbsp;20 |
 | **GDIT** | [Junior Scala Back-End Developer](https://www.wobo.ai/job/junior-scala-back-end-developer-at-gdit-s9wu1ac2p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Any Location (remote) | \$89K to \$121K/yr | Nov&nbsp;19 |
 | **York Space Systems** | [Ground Software Engineer Junior](https://www.wobo.ai/job/ground-software-engineer-junior-at-york-space-systems-s10ovu46g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Denver, CO (hybrid) |  | Nov&nbsp;19 |
 | **Southern New Hampshire University** | [ServiceNow Software Developer I](https://www.wobo.ai/job/servicenow-software-developer-i-at-southern-new-hampshire-university-s42a3po6u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$88K to \$141K/yr | Nov&nbsp;18 |
@@ -240,6 +244,8 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Terac** | [Software Developers: Interview on AI Assistant Integrations](https://www.wobo.ai/job/software-developers-interview-on-ai-assistant-integrations-at-terac-sa9wa5slg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$85/hr | Nov&nbsp;19 |
+| **Washington State University Tri-Cities** | [Multiple Tenure-Track Faculty Positions in Artificial Intelligence](https://www.wobo.ai/job/multiple-tenure-track-faculty-positions-in-artificial-intelligence-at-washington-state-s8rzcsj4f/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Pullman, WA | \$100K to \$115K/yr | Nov&nbsp;18 |
 | **Specialized** | [Early Career Analyst, AI Planning & Category Operations](https://www.wobo.ai/job/early-career-analyst-ai-planning-category-operations-at-specialized-s9y1acxoo/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | CA | \$70K to \$90K/yr | Nov&nbsp;18 |
 | **OhioHealth** | [Associate Data and AI Engineer](https://www.wobo.ai/job/associate-data-and-ai-engineer-at-ohiohealth-s9q1zzmng/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | OH (remote) |  | Nov&nbsp;18 |
 | **Accenture** | [Entry Level Technology Development Program - Full-Time AI Native Analyst - NAELFY27](https://www.wobo.ai/job/entry-level-technology-development-program-full-time-ai-native-analyst-naelfy27-at-s8gtn8pii/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Chicago, IL | \$21 to \$71/hr | Nov&nbsp;18 |
@@ -343,6 +349,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Workstreet** | [GRC Engineer 1 (Special Programs)](https://www.wobo.ai/job/grc-engineer-1-special-programs-at-workstreet-saprjgv3t/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;20 |
 | **Henderson Companies** | [Security Analyst I](https://www.wobo.ai/job/security-analyst-i-at-henderson-companies-s10xgyo7t/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Lenexa, KS |  | Nov&nbsp;19 |
 | **Truist** | [Associate Security Engineer - Threat Modeling Analysis](https://www.wobo.ai/job/associate-security-engineer-threat-modeling-analysis-at-truist-s9hkemuys/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Charlotte, NC |  | Nov&nbsp;18 |
 | **GM Financial** | [Associate Cybersecurity Analyst](https://www.wobo.ai/job/associate-cybersecurity-analyst-at-gm-financial-rwkc4jd2n/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Arlington, TX (hybrid) |  | Nov&nbsp;18 |
