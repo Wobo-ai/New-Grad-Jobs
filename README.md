@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**654 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 2:44 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**658 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:48 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (241) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (273) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (243) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (51) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (273) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -27,6 +27,7 @@
 | **Aerospace** | [Systems Engineer I - Next Generation Integrated Avionics](https://www.wobo.ai/job/systems-engineer-i-next-generation-integrated-avionics-at-aerospace-saguyhp10/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Phoenix, AZ (hybrid) |  | Nov&nbsp;20 |
 | **University of Maryland** | [IT Platform Engineer Junior, Collaboration / eMail](https://www.wobo.ai/job/it-platform-engineer-junior-collaborationemail-at-university-of-maryland-selxec8tw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | MD | \$92K to \$110K/yr | Nov&nbsp;19 |
 | **Technology Service Corporation** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-technology-service-corporation-scrx1g3uz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Huntsville, AL |  | Nov&nbsp;19 |
+| **Medtronic** | [Software Engineer I - CRM](https://www.wobo.ai/job/software-engineer-i-crm-at-medtronic-ses2g8ixn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mounds View, MN | \$74K to \$112K/yr | Nov&nbsp;19 |
 | **L-Acoustics** | [L-ISA Studio Junior Application Engineer - Rock Lititz](https://www.wobo.ai/job/l-isa-studio-junior-application-engineer-rock-lititz-at-l-acoustics-scsvfcxsl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Lititz, PA |  | Nov&nbsp;19 |
 | **Insperity** | [Associate Software Implementation Analyst](https://www.wobo.ai/job/associate-software-implementation-analyst-at-insperity-scse4iffj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Kingwood, TX (hybrid) |  | Nov&nbsp;19 |
 | **GDIT** | [Junior Scala Back-End Developer](https://www.wobo.ai/job/junior-scala-back-end-developer-at-gdit-s9wu1ac2p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Any Location (remote) | \$89K to \$121K/yr | Nov&nbsp;19 |
@@ -176,6 +177,7 @@
 | **CSI** | [Software Engineer I – C#/.NET \| Hybrid – Paducah, KY](https://www.wobo.ai/job/software-engineer-i-cnet-hybrid-paducah-ky-at-csi-s4jpqhlp0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Paducah, KY (hybrid) |  | Nov&nbsp;9 |
 | **AnaVation** | [Junior Mobile Device RE and Software Engineer – HYBRID!](https://www.wobo.ai/job/junior-mobile-device-re-and-software-engineer-hybrid-at-anavation-qwhm427c9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lorton, VA (hybrid) |  | Nov&nbsp;9 |
 | **Hardin Design & Development** | [Web Developer - Entry Level](https://www.wobo.ai/job/web-developer-entry-level-at-hardin-design-development-s5xveb80z/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Madison, WI | \$55K to \$70K/yr | Nov&nbsp;9 |
+| **SBA Communications** | [Cloud Engineer I](https://www.wobo.ai/job/cloud-engineer-i-at-sba-communications-qy5qq28xr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boca Raton, FL |  | Nov&nbsp;8 |
 | **RTX** | [Systems Engineer I - Tac Comm](https://www.wobo.ai/job/systems-engineer-i-tac-comm-at-rtx-qzvaib132/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Cedar Rapids, IA | \$57K to \$109K/yr | Nov&nbsp;8 |
 | ↳ | [Embedded Security Software Engineer I (Onsite)](https://www.wobo.ai/job/embedded-security-software-engineer-i-onsite-at-rtx-qquo6nokp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Goleta, CA | \$63K to \$120K/yr | Nov&nbsp;8 |
 | **Old Republic Title** | [Associate Developer - C#/.NET](https://www.wobo.ai/job/associate-developer-cnet-at-old-republic-title-qtc0ga87w/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Orlando, FL (hybrid) |  | Nov&nbsp;8 |
@@ -314,6 +316,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **HealthCheck360** | [Data Engineer I](https://www.wobo.ai/job/data-engineer-i-at-healthcheck360-scuc8h6i7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Dubuque, IA |  | Nov&nbsp;20 |
 | **City of New York** | [Junior Data Analytics & Automation Specialist](https://www.wobo.ai/job/junior-data-analytics-automation-specialist-at-city-of-new-york-sc8ol22wx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY |  | Nov&nbsp;20 |
+| **Guidehouse** | [Data Analyst (Dashboard Developer)](https://www.wobo.ai/job/data-analyst-dashboard-developer-at-guidehouse-seozto0z0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$68K to \$113K/yr | Nov&nbsp;19 |
 | **Blue Cross Blue Shield of Michigan** | [Data Science Analyst I](https://www.wobo.ai/job/data-science-analyst-i-at-blue-cross-blue-shield-of-michigan-s0on84qs3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Detroit, MI (hybrid) |  | Nov&nbsp;19 |
 | **Specialized** | [Early Career Data Engineer](https://www.wobo.ai/job/early-career-data-engineer-at-specialized-s9y1cl0ma/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | CA | \$76K to \$104K/yr | Nov&nbsp;18 |
 | **Simmons Bank** | [Data Analyst I](https://www.wobo.ai/job/data-analyst-i-at-simmons-bank-sa6yv4x04/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Little Rock, AR |  | Nov&nbsp;18 |
@@ -332,6 +335,7 @@
 | **The Home Depot** | [Associate Data Scientist - Delivery Data Science](https://www.wobo.ai/job/associate-data-scientist-delivery-data-science-at-the-home-depot-sbx3pufpq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | GA |  | Nov&nbsp;16 |
 | **Roblox** | [\[2027\] Data Scientist - PhD Early Career - Safety](https://www.wobo.ai/job/2027-data-scientist-phd-early-career-safety-at-roblox-rtgtlhx1y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | San Mateo, CA (hybrid) | \$186K to \$221K/yr | Nov&nbsp;16 |
 | **Marathon Petroleum Corporation** | [Audit Data Analyst I](https://www.wobo.ai/job/audit-data-analyst-i-at-marathon-petroleum-corporation-ruo1628jr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;15 |
+| **Auto Club Enterprises** | [Data Scientist 1](https://www.wobo.ai/job/data-scientist-1-at-auto-club-enterprises-rr0ovryq7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Coppell, TX (hybrid) |  | Nov&nbsp;15 |
 | **UT Health San Antonio Staff Positions** | [Clinical Business Intelligence Analyst - Associate](https://www.wobo.ai/job/clinical-business-intelligence-analyst-associate-at-ut-health-san-antonio-staff-positions-rijn49fd2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;14 |
 | **Guidehouse** | [Jr. Data Scientist](https://www.wobo.ai/job/jr-data-scientist-at-guidehouse-rd0w88u34/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | McLean, VA | \$98K to \$163K/yr | Nov&nbsp;11 |
 | **Rectangle Health** | [Junior Power BI Developer](https://www.wobo.ai/job/junior-power-bi-developer-at-rectangle-health-rbzcwmgyf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | White Plains, NY | \$75K to \$100K/yr | Nov&nbsp;11 |
@@ -369,6 +373,7 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **Workstreet** | [GRC Engineer 1 (Special Programs)](https://www.wobo.ai/job/grc-engineer-1-special-programs-at-workstreet-saprjgv3t/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;20 |
+| **State of Georgia** | [Cybersecurity Analyst 1 - Central Office - Decatur, GA (ADM)](https://www.wobo.ai/job/cybersecurity-analyst-1-central-office-decatur-ga-adm-at-state-of-georgia-semsb8dfb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Decatur, GA | \$80K/yr | Nov&nbsp;19 |
 | **Truist** | [Associate Security Engineer - Threat Modeling Analysis](https://www.wobo.ai/job/associate-security-engineer-threat-modeling-analysis-at-truist-s9hkemuys/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Charlotte, NC |  | Nov&nbsp;18 |
 | **GM Financial** | [Associate Cybersecurity Analyst](https://www.wobo.ai/job/associate-cybersecurity-analyst-at-gm-financial-rwkc4jd2n/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Arlington, TX (hybrid) |  | Nov&nbsp;18 |
 | **Open Lending** | [Early Career Cyber Underwriter](https://www.wobo.ai/job/early-career-cyber-underwriter-at-open-lending-rw8qcl4yl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Nov&nbsp;18 |
@@ -378,7 +383,6 @@
 | **Bloomberg Industry Group** | [Application Security Engineer 1](https://www.wobo.ai/job/application-security-engineer-1-at-bloomberg-industry-group-rz023eh39/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Arlington, VA | \$90K to \$110K/yr | Nov&nbsp;17 |
 | **National Center for Missing & Exploited Children** | [Analyst 1, CyberTipline](https://www.wobo.ai/job/analyst-1-cybertipline-at-national-center-for-missing-exploited-children-rsui1rgdl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Lake Park, FL +1 |  | Nov&nbsp;17 |
 | **Northrop Grumman** | [2026 Associate Cybersecurity Analyst - Pathways Program - Beavercreek OH](https://www.wobo.ai/job/2026-associate-cybersecurity-analyst-pathways-program-beavercreek-oh-at-northrop-grumman-ruu63ml0m/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Beavercreek, OH |  | Nov&nbsp;16 |
-| **GDIT** | [Cybersecurity Analyst](https://www.wobo.ai/job/cybersecurity-analyst-at-gdit-rv0jpc6ea/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | St. Louis, MO | \$64K to \$77K/yr | Nov&nbsp;16 |
 | **Leidos** | [Network Vulnerability Remediation Engineer – Junior Level](https://www.wobo.ai/job/network-vulnerability-remediation-engineer-junior-level-at-leidos-ruubg7f6m/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Remote (US) | \$59K to \$107K/yr | Nov&nbsp;15 |
 | **Global Partners LP** | [Junior Cybersecurity Threat Hunter & Analyst](https://www.wobo.ai/job/junior-cybersecurity-threat-hunter-analyst-at-global-partners-lp-rsyyaw797/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Newton, MA | \$81K to \$121K/yr | Nov&nbsp;15 |
 | **Amentum** | [Cybersecurity Engineer Junior](https://www.wobo.ai/job/cybersecurity-engineer-junior-at-amentum-rt03rz8xg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | FL | \$70K to \$80K/yr | Nov&nbsp;15 |
