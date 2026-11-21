@@ -1,6 +1,6 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**658 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:48 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**658 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 4:52 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
@@ -27,6 +27,7 @@
 | **Aerospace** | [Systems Engineer I - Next Generation Integrated Avionics](https://www.wobo.ai/job/systems-engineer-i-next-generation-integrated-avionics-at-aerospace-saguyhp10/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Phoenix, AZ (hybrid) |  | Nov&nbsp;20 |
 | **University of Maryland** | [IT Platform Engineer Junior, Collaboration / eMail](https://www.wobo.ai/job/it-platform-engineer-junior-collaborationemail-at-university-of-maryland-selxec8tw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | MD | \$92K to \$110K/yr | Nov&nbsp;19 |
 | **Technology Service Corporation** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-technology-service-corporation-scrx1g3uz/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Huntsville, AL |  | Nov&nbsp;19 |
+| **Parsons** | [Associate Software Engineer](https://www.wobo.ai/job/associate-software-engineer-at-parsons-sexpxlxif/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$64K to \$111K/yr | Nov&nbsp;19 |
 | **Medtronic** | [Software Engineer I - CRM](https://www.wobo.ai/job/software-engineer-i-crm-at-medtronic-ses2g8ixn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mounds View, MN | \$74K to \$112K/yr | Nov&nbsp;19 |
 | **L-Acoustics** | [L-ISA Studio Junior Application Engineer - Rock Lititz](https://www.wobo.ai/job/l-isa-studio-junior-application-engineer-rock-lititz-at-l-acoustics-scsvfcxsl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Lititz, PA |  | Nov&nbsp;19 |
 | **Insperity** | [Associate Software Implementation Analyst](https://www.wobo.ai/job/associate-software-implementation-analyst-at-insperity-scse4iffj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Kingwood, TX (hybrid) |  | Nov&nbsp;19 |
@@ -255,7 +256,6 @@
 | **Rokt** | [Junior Software Engineer - Rokt Residency](https://www.wobo.ai/job/junior-software-engineer-rokt-residency-at-rokt-mjovlo5s4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$50/hr | Oct&nbsp;23 |
 | **Leidos** | [Junior Software Developer](https://www.wobo.ai/job/junior-software-developer-at-leidos-n115n4mhn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | St. Louis, MO | \$70K to \$126K/yr | Oct&nbsp;22 |
 | **Amentum** | [Software Engineer 1](https://www.wobo.ai/job/software-engineer-1-at-amentum-mplcv9cy5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Hanover, MD | \$155K to \$185K/yr | Oct&nbsp;22 |
-| **Palantir Technologies** | [Forward Deployed Software Engineer, New Grad - Warp Speed](https://www.wobo.ai/job/forward-deployed-software-engineer-new-grad-warp-speed-at-palantir-technologies-mpxg65816/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$135K to \$145K/yr | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
