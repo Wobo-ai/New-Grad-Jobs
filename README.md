@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**647 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:41 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**653 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:41 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (234) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (48) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (239) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -15,6 +15,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **Katmai** | [Information Management Specialist (Sharepoint Developer Jr.)](https://www.wobo.ai/job/information-management-specialist-sharepoint-developer-jr-at-katmai-sdc5oq199/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Quantico, VA | \$90K to \$99K/yr | Nov&nbsp;21 |
 | **Dsn** | [(1121223) Embedded Software Engineer- Entry Level role](https://www.wobo.ai/job/1121223-embedded-software-engineer-entry-level-role-at-dsn-sdc5jyqrp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mossville, IL | \$75K to \$80K/yr | Nov&nbsp;21 |
+| **Morgan & Morgan, P.A.** | [Case Developer](https://www.wobo.ai/job/case-developer-at-morgan-morgan-pa-scuf3de1p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Longwood, FL | \$18/hr | Nov&nbsp;20 |
 | **Oracle** | [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://www.wobo.ai/job/spring-2027-start-undergrad-software-engineer-oracle-cloud-infrastructure-oci-nashville-sbq4yi72a/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Nashville, TN |  | Nov&nbsp;20 |
 | **Anduril Industries** | [Radar Systems Engineer, Early Career](https://www.wobo.ai/job/radar-systems-engineer-early-career-at-anduril-industries-sd0fwoz7v/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Costa Mesa, CA | \$117K to \$150K/yr | Nov&nbsp;20 |
 | ↳ | [RF Integration Systems Engineer, Early Career](https://www.wobo.ai/job/rf-integration-systems-engineer-early-career-at-anduril-industries-sd0fxd3wi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Costa Mesa, CA | \$117K to \$150K/yr | Nov&nbsp;20 |
@@ -94,6 +95,7 @@
 | **Raymond James** | [Financial Planning Software Support Analyst I](https://www.wobo.ai/job/financial-planning-software-support-analyst-i-at-raymond-james-rk94qivr8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | St. Petersburg, FL (hybrid) |  | Nov&nbsp;12 |
 | **O’Reilly Auto Parts** | [Platform Engineer I (Mobile Device Management) (Onsite Role)](https://www.wobo.ai/job/platform-engineer-i-mobile-device-management-onsite-role-at-oreilly-auto-parts-rji4hcyq6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Springfield, MO |  | Nov&nbsp;12 |
 | **Nightwing** | [Junior Software Engineer (SWE0)](https://www.wobo.ai/job/junior-software-engineer-swe0-at-nightwing-s2ydvpc9f/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$55K to \$106K/yr | Nov&nbsp;12 |
+| **Cone Health** | [Analytic Developer](https://www.wobo.ai/job/analytic-developer-at-cone-health-s60yod1gb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Market Street - 4411 (remote) |  | Nov&nbsp;12 |
 | **Shield** | [Software Development Engineer - New Graduate](https://www.wobo.ai/job/software-development-engineer-new-graduate-at-shield-rnhcovmu2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Diego, CA |  | Nov&nbsp;12 |
 | **mthree** | [Java Developer](https://www.wobo.ai/job/java-developer-at-mthree-rfui7796y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA | \$66K/yr | Nov&nbsp;12 |
 | **SpaceX** | [New Graduate Engineer, Aerospace Software (Starfall)](https://www.wobo.ai/job/new-graduate-engineer-aerospace-software-starfall-at-spacex-rfvjfssjp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hawthorne, CA | \$125K to \$160K/yr | Nov&nbsp;12 |
@@ -179,6 +181,8 @@
 | **Prosync** | [System OR Software Engineer I](https://www.wobo.ai/job/system-or-software-engineer-i-at-prosync-q27ibanv4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD |  | Nov&nbsp;6 |
 | **Nightwing** | [Software Developer I (System Security)](https://www.wobo.ai/job/software-developer-i-system-security-at-nightwing-s2yeispfg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Huntsville, AL (hybrid) |  | Nov&nbsp;5 |
 | **LivaNova** | [Software Test Engineer I](https://www.wobo.ai/job/software-test-engineer-i-at-livanova-q0pv7heqp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX | \$85K to \$100K/yr | Nov&nbsp;5 |
+| **Chewy** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-chewy-s60369kn8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA | \$93K to \$160K/yr | Nov&nbsp;5 |
+| ↳ | [Software Engineer I, Full Stack, Promotions](https://www.wobo.ai/job/software-engineer-i-full-stack-promotions-at-chewy-s6034kgqr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA | \$98K to \$160K/yr | Nov&nbsp;5 |
 | **Abbott** | [Software Quality Engineer I](https://www.wobo.ai/job/software-quality-engineer-i-at-abbott-q37yaehdp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Sylmar, CA | \$74K to \$116K/yr | Nov&nbsp;5 |
 | **StubHub** | [Software Engineer I (New Grad) - Consumer Experience](https://www.wobo.ai/job/software-engineer-i-new-grad-consumer-experience-at-stubhub-pz89m1u1f/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (hybrid) | \$120K to \$150K/yr | Nov&nbsp;5 |
 | **Skydio** | [Solutions Engineer – State, Local, Educational (SLED) Campus Security](https://www.wobo.ai/job/solutions-engineer-state-local-educational-sled-campus-security-at-skydio-pt8y469cs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Mateo, CA (remote) | \$150K to \$200K/yr | Nov&nbsp;5 |
@@ -224,6 +228,7 @@
 | **Avnet** | [Associate Field Application Engineer - AMD](https://www.wobo.ai/job/associate-field-application-engineer-amd-at-avnet-oe65r5mo4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Wilmington, MA (hybrid) | \$85K to \$105K/yr | Oct&nbsp;28 |
 | **Argonne National Laboratory** | [Postbaccalaureate Appointee - Robotics Software Developer, Rapid Prototyping Laboratory](https://www.wobo.ai/job/postbaccalaureate-appointee-robotics-software-developer-rapid-prototyping-laboratory-at-oclkyhgaw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Lemont, IL | \$59K to \$92K/yr | Oct&nbsp;28 |
 | **Veolia** | [Junior Manufacturing Software Engineer](https://www.wobo.ai/job/junior-manufacturing-software-engineer-at-veolia-o2ssdozxj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boulder, CO | \$78K to \$90K/yr | Oct&nbsp;28 |
+| **Discernis** | [Software Engineer](https://www.wobo.ai/job/software-engineer-at-discernis-s5ujrmi8b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY |  | Oct&nbsp;28 |
 | **Bask Health** | [Junior Front-End Software Engineer](https://www.wobo.ai/job/junior-front-end-software-engineer-at-bask-health-nq70rvs16/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Oct&nbsp;28 |
 | ↳ | [Junior Back-End Software Engineer](https://www.wobo.ai/job/junior-back-end-software-engineer-at-bask-health-nq70p6nl6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Oct&nbsp;28 |
 | **Guidehouse** | [Junior Developer](https://www.wobo.ai/job/junior-developer-at-guidehouse-nv98e0mh8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | IL | \$68K to \$113K/yr | Oct&nbsp;27 |
@@ -303,6 +308,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **HealthCheck360** | [Data Engineer I](https://www.wobo.ai/job/data-engineer-i-at-healthcheck360-scuc8h6i7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Dubuque, IA |  | Nov&nbsp;20 |
 | **City of New York** | [Junior Data Analytics & Automation Specialist](https://www.wobo.ai/job/junior-data-analytics-automation-specialist-at-city-of-new-york-sc8ol22wx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY |  | Nov&nbsp;20 |
 | **Blue Cross Blue Shield of Michigan** | [Data Science Analyst I](https://www.wobo.ai/job/data-science-analyst-i-at-blue-cross-blue-shield-of-michigan-s0on84qs3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Detroit, MI (hybrid) |  | Nov&nbsp;19 |
 | **Specialized** | [Early Career Data Engineer](https://www.wobo.ai/job/early-career-data-engineer-at-specialized-s9y1cl0ma/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | CA | \$76K to \$104K/yr | Nov&nbsp;18 |
