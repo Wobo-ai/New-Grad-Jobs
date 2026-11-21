@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**655 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 1:50 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**654 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 2:44 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (242) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (273) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (241) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (273) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -254,7 +254,6 @@
 | **Leidos** | [Junior Software Developer](https://www.wobo.ai/job/junior-software-developer-at-leidos-n115n4mhn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | St. Louis, MO | \$70K to \$126K/yr | Oct&nbsp;22 |
 | **Amentum** | [Software Engineer 1](https://www.wobo.ai/job/software-engineer-1-at-amentum-mplcv9cy5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Hanover, MD | \$155K to \$185K/yr | Oct&nbsp;22 |
 | **Palantir Technologies** | [Forward Deployed Software Engineer, New Grad - Warp Speed](https://www.wobo.ai/job/forward-deployed-software-engineer-new-grad-warp-speed-at-palantir-technologies-mpxg65816/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$135K to \$145K/yr | Oct&nbsp;22 |
-| **Aeva, Inc.** | [Systems Engineer, LiDAR Characterization](https://www.wobo.ai/job/systems-engineer-lidar-characterization-at-aeva-inc-mian0ywuv/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Mountain View, CA |  | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
