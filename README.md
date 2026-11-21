@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**637 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:51 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**636 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 12:46 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (224) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (224) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -21,6 +21,7 @@
 | **GDIT** | [Junior Scala Back-End Developer](https://www.wobo.ai/job/junior-scala-back-end-developer-at-gdit-s9wu1ac2p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Any Location (remote) | \$89K to \$121K/yr | Nov&nbsp;19 |
 | **Amentum** | [Junior Systems Engineer/Analyst](https://www.wobo.ai/job/junior-systems-engineeranalyst-at-amentum-sciv7edrb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Dahlgren, VA | \$70K to \$120K/yr | Nov&nbsp;19 |
 | **Sopra Steria** | [Embedded Software Verification Engineer (Entry Level)](https://www.wobo.ai/job/embedded-software-verification-engineer-entry-level-at-sopra-steria-sci7yu8vk/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Platteville, WI (remote) |  | Nov&nbsp;19 |
+| **Formlabs** | [Embedded Software Engineer - Entry Level](https://www.wobo.ai/job/embedded-software-engineer-entry-level-at-formlabs-s65qbwekk/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA | \$110K to \$140K/yr | Nov&nbsp;19 |
 | **York Space Systems** | [Ground Software Engineer Junior](https://www.wobo.ai/job/ground-software-engineer-junior-at-york-space-systems-s10ovu46g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Denver, CO (hybrid) |  | Nov&nbsp;19 |
 | **The Home Depot** | [Systems Engineer (Remote)](https://www.wobo.ai/job/systems-engineer-remote-at-the-home-depot-sbx1yzpx3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$50K to \$130K/yr | Nov&nbsp;18 |
 | **Southern New Hampshire University** | [ServiceNow Software Developer I](https://www.wobo.ai/job/servicenow-software-developer-i-at-southern-new-hampshire-university-s42a3po6u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$88K to \$141K/yr | Nov&nbsp;18 |
@@ -58,6 +59,7 @@
 | ↳ | [RF Software Engineer Level 1](https://www.wobo.ai/job/rf-software-engineer-level-1-at-fantom-corporation-rsdroqae1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hanover, MD |  | Nov&nbsp;17 |
 | **Fantom Corporation** | [Software Engineer Level 0](https://www.wobo.ai/job/software-engineer-level-0-at-fantom-corporation-rsdrw85fa/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Hanover, MD |  | Nov&nbsp;16 |
 | **Tandem Diabetes Care** | [Embedded Software Engineer I](https://www.wobo.ai/job/embedded-software-engineer-i-at-tandem-diabetes-care-rvb53tj9o/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | CA (remote) | \$39 to \$49/hr | Nov&nbsp;16 |
+| **Shift4** | [QA Engineer I](https://www.wobo.ai/job/qa-engineer-i-at-shift4-s65hy0f3j/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Atlanta, GA (hybrid) |  | Nov&nbsp;16 |
 | **Leidos** | [High-Speed Systems Engineer](https://www.wobo.ai/job/high-speed-systems-engineer-at-leidos-ruuame3b5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | King of Prussia, PA | \$58K to \$105K/yr | Nov&nbsp;16 |
 | **Boeing** | [Associate Software Engineer - Developer](https://www.wobo.ai/job/associate-software-engineer-developer-at-boeing-rxv0pvxk0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Tukwila, WA | \$106K to \$144K/yr | Nov&nbsp;16 |
 | **SBT Global, Inc** | [Junior Full Stack Developer - Bilingual in Korean](https://www.wobo.ai/job/junior-full-stack-developer-bilingual-in-korean-at-sbt-global-inc-rt5bin5zs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Plano, TX | \$77K/yr | Nov&nbsp;16 |
@@ -72,7 +74,6 @@
 | ↳ | [Systems Engineer I (Onsite)](https://www.wobo.ai/job/systems-engineer-i-onsite-at-rtx-rtt9j26r3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Aurora, CO +1 | \$57K to \$109K/yr | Nov&nbsp;15 |
 | **Pima County** | [ITSD - Software Engineer I](https://www.wobo.ai/job/itsd-software-engineer-i-at-pima-county-rqa9w6y54/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | SUPERIOR COURT (remote) | \$65K to \$72K/yr | Nov&nbsp;15 |
 | **Boeing** | [Optical Systems Engineer (Entry Level) - Millennium Space Systems](https://www.wobo.ai/job/optical-systems-engineer-entry-level-millennium-space-systems-at-boeing-rtvfq332u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | El Segundo, CA | \$71K to \$104K/yr | Nov&nbsp;15 |
-| **Amentum** | [Entry Level Software Engineer - SECRET](https://www.wobo.ai/job/entry-level-software-engineer-secret-at-amentum-rt05p3ak6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Dahlgren, VA | \$75K to \$90K/yr | Nov&nbsp;15 |
 | **Aretum** | [Junior Web Developer/Engineer - Contingent](https://www.wobo.ai/job/junior-web-developerengineer-contingent-at-aretum-rijstjxra/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | McLean, VA (remote) | \$75K to \$100K/yr | Nov&nbsp;14 |
 | **Twitch** | [Software Engineer I, Payments](https://www.wobo.ai/job/software-engineer-i-payments-at-twitch-rj9zxvtge/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA | \$127K to \$185K/yr | Nov&nbsp;13 |
 | **CrossCountry Consulting** | [Jr. Forward Deployed Software Engineer - (PA)](https://www.wobo.ai/job/jr-forward-deployed-software-engineer-pa-at-crosscountry-consulting-rse1rwdkd/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Philadelphia, PA (hybrid) | \$90K to \$125K/yr | Nov&nbsp;13 |
@@ -236,7 +237,6 @@
 | **Palantir Technologies** | [Forward Deployed Software Engineer, New Grad - Warp Speed](https://www.wobo.ai/job/forward-deployed-software-engineer-new-grad-warp-speed-at-palantir-technologies-mpxg65816/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$135K to \$145K/yr | Oct&nbsp;22 |
 | **Aeva, Inc.** | [Systems Engineer, LiDAR Characterization](https://www.wobo.ai/job/systems-engineer-lidar-characterization-at-aeva-inc-mian0ywuv/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Mountain View, CA |  | Oct&nbsp;22 |
 | **Rendezvous Robotics** | [Flight Software Engineer (Early Career)](https://www.wobo.ai/job/flight-software-engineer-early-career-at-rendezvous-robotics-mn97j7j77/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Golden, CO | \$85K to \$115K/yr | Oct&nbsp;22 |
-| **Visionist, Inc** | [Junior Software Engineer](https://www.wobo.ai/job/junior-software-engineer-at-visionist-inc-m904mlzqi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Columbia, MD | \$127K to \$176K/yr | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
@@ -274,7 +274,6 @@
 | **NVIDIA** | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://www.wobo.ai/job/research-scientist-ai-and-systems-security-phd-new-college-grad-2026-at-nvidia-q2rb7lu7z/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Westford, MA | \$168K to \$265K/yr | Nov&nbsp;5 |
 | **Emerson** | [Embedded Software Engineer – AI and Web](https://www.wobo.ai/job/embedded-software-engineer-ai-and-web-at-emerson-pmoku6ikc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Marshalltown, IA (hybrid) |  | Nov&nbsp;5 |
 | **Captivation Software** | [Artificial Intelligence Machine Learning Engineer 1 - C++ / Marian / Java / AWS / PyTorch / Python](https://www.wobo.ai/job/artificial-intelligence-machine-learning-engineer-1-cmarianjavaawspytorchpython-at-pqiflm18b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;4 |
-| **Precisely US** | [Associate Software Developer (AI)](https://www.wobo.ai/job/associate-software-developer-ai-at-precisely-us-s4g9i5i8r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) |  | Nov&nbsp;3 |
 | **SambaNova** | [Machine Learning Engineer - New Grad](https://www.wobo.ai/job/machine-learning-engineer-new-grad-at-sambanova-s40840ozp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Austin, TX | \$131K to \$197K/yr | Nov&nbsp;3 |
 | **Lead For America** | [Program Innovation & AI Literacy Specialist (IMPACTdmv)](https://www.wobo.ai/job/program-innovation-ai-literacy-specialist-impactdmv-at-lead-for-america-p5i2xqj0d/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Lanham, MD | \$23K/yr | Nov&nbsp;3 |
 | **Bottomline** | [AI Enablement Analyst](https://www.wobo.ai/job/ai-enablement-analyst-at-bottomline-p7zr7dj8r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Portsmouth, NH |  | Nov&nbsp;2 |
