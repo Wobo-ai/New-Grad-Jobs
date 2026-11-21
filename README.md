@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**638 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:51 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**637 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 1:51 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (224) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (224) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -247,7 +247,6 @@
 | **Terac** | [Software Developers: Interview on AI Assistant Integrations](https://www.wobo.ai/job/software-developers-interview-on-ai-assistant-integrations-at-terac-sa9wa5slg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$85/hr | Nov&nbsp;19 |
 | **Washington State University Tri-Cities** | [Multiple Tenure-Track Faculty Positions in Artificial Intelligence](https://www.wobo.ai/job/multiple-tenure-track-faculty-positions-in-artificial-intelligence-at-washington-state-s8rzcsj4f/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Pullman, WA | \$100K to \$115K/yr | Nov&nbsp;18 |
 | **Specialized** | [Early Career Analyst, AI Planning & Category Operations](https://www.wobo.ai/job/early-career-analyst-ai-planning-category-operations-at-specialized-s9y1acxoo/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | CA | \$70K to \$90K/yr | Nov&nbsp;18 |
-| **OhioHealth** | [Associate Data and AI Engineer](https://www.wobo.ai/job/associate-data-and-ai-engineer-at-ohiohealth-s9q1zzmng/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | OH (remote) |  | Nov&nbsp;18 |
 | **Accenture** | [Entry Level Technology Development Program - Full-Time AI Native Analyst - NAELFY27](https://www.wobo.ai/job/entry-level-technology-development-program-full-time-ai-native-analyst-naelfy27-at-s8gtn8pii/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Chicago, IL | \$21 to \$71/hr | Nov&nbsp;18 |
 | **ATOMS** | [AI Researcher - New Grad (BS/MS)](https://www.wobo.ai/job/ai-researcher-new-grad-bsms-at-atoms-rxobmhpu3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA | \$170K/yr | Nov&nbsp;17 |
 | ↳ | [AI Researcher - New Grad (PhD)](https://www.wobo.ai/job/ai-researcher-new-grad-phd-at-atoms-rxobnla59/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | San Francisco, CA | \$190K/yr | Nov&nbsp;17 |
