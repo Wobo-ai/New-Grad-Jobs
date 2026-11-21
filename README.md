@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**643 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:41 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**647 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 3:41 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (231) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (48) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (234) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (48) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (12) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,8 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Katmai** | [Information Management Specialist (Sharepoint Developer Jr.)](https://www.wobo.ai/job/information-management-specialist-sharepoint-developer-jr-at-katmai-sdc5oq199/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Quantico, VA | \$90K to \$99K/yr | Nov&nbsp;21 |
+| **Dsn** | [(1121223) Embedded Software Engineer- Entry Level role](https://www.wobo.ai/job/1121223-embedded-software-engineer-entry-level-role-at-dsn-sdc5jyqrp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mossville, IL | \$75K to \$80K/yr | Nov&nbsp;21 |
 | **Oracle** | [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://www.wobo.ai/job/spring-2027-start-undergrad-software-engineer-oracle-cloud-infrastructure-oci-nashville-sbq4yi72a/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Nashville, TN |  | Nov&nbsp;20 |
 | **Anduril Industries** | [Radar Systems Engineer, Early Career](https://www.wobo.ai/job/radar-systems-engineer-early-career-at-anduril-industries-sd0fwoz7v/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Costa Mesa, CA | \$117K to \$150K/yr | Nov&nbsp;20 |
 | ↳ | [RF Integration Systems Engineer, Early Career](https://www.wobo.ai/job/rf-integration-systems-engineer-early-career-at-anduril-industries-sd0fxd3wi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Costa Mesa, CA | \$117K to \$150K/yr | Nov&nbsp;20 |
@@ -26,6 +28,7 @@
 | **Insperity** | [Associate Software Implementation Analyst](https://www.wobo.ai/job/associate-software-implementation-analyst-at-insperity-scse4iffj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Kingwood, TX (hybrid) |  | Nov&nbsp;19 |
 | **GDIT** | [Junior Scala Back-End Developer](https://www.wobo.ai/job/junior-scala-back-end-developer-at-gdit-s9wu1ac2p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Any Location (remote) | \$89K to \$121K/yr | Nov&nbsp;19 |
 | **Amentum** | [Junior Systems Engineer/Analyst](https://www.wobo.ai/job/junior-systems-engineeranalyst-at-amentum-sciv7edrb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Dahlgren, VA | \$70K to \$120K/yr | Nov&nbsp;19 |
+| **Redwood Credit Union** | [DevOps Engineer I](https://www.wobo.ai/job/devops-engineer-i-at-redwood-credit-union-sdwzpotg8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Napa, CA | \$101K to \$118K/yr | Nov&nbsp;19 |
 | **Sopra Steria** | [Embedded Software Verification Engineer (Entry Level)](https://www.wobo.ai/job/embedded-software-verification-engineer-entry-level-at-sopra-steria-sci7yu8vk/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Platteville, WI (remote) |  | Nov&nbsp;19 |
 | **Formlabs** | [Embedded Software Engineer - Entry Level](https://www.wobo.ai/job/embedded-software-engineer-entry-level-at-formlabs-s65qbwekk/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA | \$110K to \$140K/yr | Nov&nbsp;19 |
 | **York Space Systems** | [Ground Software Engineer Junior](https://www.wobo.ai/job/ground-software-engineer-junior-at-york-space-systems-s10ovu46g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Denver, CO (hybrid) |  | Nov&nbsp;19 |
@@ -389,6 +392,7 @@
 | **Booz Allen** | [Cybersecurity Analyst, Junior](https://www.wobo.ai/job/cybersecurity-analyst-junior-at-booz-allen-nwjts2bb6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Rome, NY (hybrid) | \$53K to \$108K/yr | Oct&nbsp;27 |
 | **maxRTE** | [Network & Security Engineer I](https://www.wobo.ai/job/network-security-engineer-i-at-maxrte-nhd6rm2d9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Oct&nbsp;27 |
 | **Sierra Nevada Corporation** | [Systems Security Engineer I](https://www.wobo.ai/job/systems-security-engineer-i-at-sierra-nevada-corporation-ndhkpjttg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Oct&nbsp;25 |
+| **Citi** | [Technology- Cyber Security, Full Time Analyst, Irving 2027](https://www.wobo.ai/job/technology-cyber-security-full-time-analyst-irving-2027-at-citi-seibv83a8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Irving, TX (hybrid) | \$90K/yr | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
