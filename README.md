@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**678 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 1:53 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**676 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:46 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (247) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (286) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (245) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (286) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -43,7 +43,6 @@
 | **The Home Depot** | [Systems Engineer (Remote)](https://www.wobo.ai/job/systems-engineer-remote-at-the-home-depot-sbx1yzpx3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$50K to \$130K/yr | Nov&nbsp;18 |
 | **Technology Service Corporation** | [Systems Engineer I](https://www.wobo.ai/job/systems-engineer-i-at-technology-service-corporation-s3xhytd7l/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Silver Spring, MD +1 | \$83K to \$108K/yr | Nov&nbsp;18 |
 | **Southern New Hampshire University** | [ServiceNow Software Developer I](https://www.wobo.ai/job/servicenow-software-developer-i-at-southern-new-hampshire-university-s42a3po6u/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$88K to \$141K/yr | Nov&nbsp;18 |
-| **Northrop Grumman** | [2027 Associate Software Digital Engineer - Rolling Meadows IL - Rolling Meadows IL](https://www.wobo.ai/job/2027-associate-software-digital-engineer-rolling-meadows-il-rolling-meadows-il-at-s9vsf6r35/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Meadows Place, TX | \$80K to \$120K/yr | Nov&nbsp;18 |
 | **Nordstrom** | [Associate Product Developer - Women's Active and Specialized, Hybrid (Seattle, WA)](https://www.wobo.ai/job/associate-product-developer-womens-active-and-specialized-hybrid-seattle-wa-at-nordstrom-sciyzu716/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Seattle, WA (hybrid) | \$69K to \$111K/yr | Nov&nbsp;18 |
 | **Hewlett Packard Enterprise** | [Systems / Software Engineer I Graduate](https://www.wobo.ai/job/systems-software-engineer-i-graduate-at-hewlett-packard-enterprise-s7u1yao40/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Sunnyvale, CA | \$84K to \$170K/yr | Nov&nbsp;18 |
 | ↳ | [Customer Systems Engineer Graduate](https://www.wobo.ai/job/customer-systems-engineer-graduate-at-hewlett-packard-enterprise-s7u1p76l2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Roseville, CA (hybrid) | \$34 to \$52/hr | Nov&nbsp;18 |
@@ -259,7 +258,6 @@
 | ↳ | [Algorithm Developer II - New College Grad (Masters - Santa Clara, CA)](https://www.wobo.ai/job/algorithm-developer-ii-new-college-grad-masters-santa-clara-ca-at-applied-materials-ni67d79py/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Santa Clara, CA | \$131K to \$180K/yr | Oct&nbsp;25 |
 | **Amentum** | [Junior Web Developer](https://www.wobo.ai/job/junior-web-developer-at-amentum-nek41q193/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Dahlgren, VA | \$60K to \$80K/yr | Oct&nbsp;25 |
 | **PDW** | [Associate Software Quality Engineer – Systems Verification](https://www.wobo.ai/job/associate-software-quality-engineer-systems-verification-at-pdw-mwpm7e6ws/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Huntsville, AL |  | Oct&nbsp;24 |
-| **Torc Robotics** | [Commissioning - Systems Engineer I](https://www.wobo.ai/job/commissioning-systems-engineer-i-at-torc-robotics-mvt9f8p85/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ann Arbor, MI | \$99K to \$119K/yr | Oct&nbsp;23 |
 
 [Back to sections](#sections)
 
