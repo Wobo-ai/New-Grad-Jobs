@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**681 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**682 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (250) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (250) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -343,6 +343,7 @@
 | **Woongjin, Inc** | [Data Analyst (BI Developer)\_ Bilingual (Korean/ English)](https://www.wobo.ai/job/data-analyst-bi-developer_-bilingual-korean-english-at-woongjin-inc-rx4p5qt6r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Plano, TX |  | Nov&nbsp;17 |
 | **TeleSolv Consulting** | [Junior Business Intelligence Analyst](https://www.wobo.ai/job/junior-business-intelligence-analyst-at-telesolv-consulting-rte3r8xsb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Philadelphia, PA |  | Nov&nbsp;17 |
 | **The Home Depot** | [Associate Data Scientist - Delivery Data Science](https://www.wobo.ai/job/associate-data-scientist-delivery-data-science-at-the-home-depot-sbx3pufpq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | GA |  | Nov&nbsp;16 |
+| **Radiance Technologies** | [IT Data Analyst](https://www.wobo.ai/job/it-data-analyst-at-radiance-technologies-s3rxyz6z7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Dayton, OH |  | Nov&nbsp;16 |
 | **Roblox** | [\[2027\] Data Scientist - PhD Early Career - Safety](https://www.wobo.ai/job/2027-data-scientist-phd-early-career-safety-at-roblox-rtgtlhx1y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | San Mateo, CA (hybrid) | \$186K to \$221K/yr | Nov&nbsp;16 |
 | **Marathon Petroleum Corporation** | [Audit Data Analyst I](https://www.wobo.ai/job/audit-data-analyst-i-at-marathon-petroleum-corporation-ruo1628jr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Antonio, TX |  | Nov&nbsp;15 |
 | **Auto Club Enterprises** | [Data Scientist 1](https://www.wobo.ai/job/data-scientist-1-at-auto-club-enterprises-rr0ovryq7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Coppell, TX (hybrid) |  | Nov&nbsp;15 |
