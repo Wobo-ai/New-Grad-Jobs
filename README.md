@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**682 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**683 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (250) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (251) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -219,6 +219,7 @@
 | **Sierra Nevada Corporation** | [Systems Engineer I](https://www.wobo.ai/job/systems-engineer-i-at-sierra-nevada-corporation-pjen63m24/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Nov&nbsp;2 |
 | **RTX** | [Systems Engineering- (Onsite)](https://www.wobo.ai/job/systems-engineering-onsite-at-rtx-pikta0q4j/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Burnsville, MN | \$37K to \$82K/yr | Nov&nbsp;2 |
 | **Parsons** | [Software Engineer I - Top Secret](https://www.wobo.ai/job/software-engineer-i-top-secret-at-parsons-pci5mkq0r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Remote (US) | \$88K to \$155K/yr | Nov&nbsp;2 |
+| **Mariani Landscape** | [Associate Business Developer - Outside Sales & Territory Canvassing](https://www.wobo.ai/job/associate-business-developer-outside-sales-territory-canvassing-at-mariani-landscape-s3kk8ql82/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Venice, FL |  | Nov&nbsp;2 |
 | **LexisNexis Risk Solutions** | [Tech Accelerate Graduate Program - Software Engineer I](https://www.wobo.ai/job/tech-accelerate-graduate-program-software-engineer-i-at-lexisnexis-risk-solutions-pihk5wung/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Alpharetta, GA | \$59K to \$99K/yr | Nov&nbsp;2 |
 | **Amentum** | [Software Tools Developer, Entry Level](https://www.wobo.ai/job/software-tools-developer-entry-level-at-amentum-pbyyt7bxj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Huntsville, AL |  | Nov&nbsp;2 |
 | **Smartsheet** | [Software Engineer I (Remote Eligible)](https://www.wobo.ai/job/software-engineer-i-remote-eligible-at-smartsheet-p964l5d6v/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$108K to \$148K/yr | Nov&nbsp;2 |
