@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**665 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 7:09 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**668 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 7:09 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (244) · [AI and ML](#entry-level-ai-and-ml-jobs) (46) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (246) · [AI and ML](#entry-level-ai-and-ml-jobs) (46) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (277) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -196,7 +196,9 @@
 | **Priceline** | [Associate Software Engineer](https://www.wobo.ai/job/associate-software-engineer-at-priceline-pt1kxhm79/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (hybrid) | \$100K to \$125K/yr | Nov&nbsp;4 |
 | **Mastercard** | [Site Reliability Engineer I](https://www.wobo.ai/job/site-reliability-engineer-i-at-mastercard-ptrtemx4v/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | O'Fallon, MO | \$61K to \$102K/yr | Nov&nbsp;4 |
 | **Jet Propulsion Laboratory** | [Power Systems Engineer I (345A)](https://www.wobo.ai/job/power-systems-engineer-i-345a-at-jet-propulsion-laboratory-q1zi55roe/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pasadena, CA | \$99K to \$119K/yr | Nov&nbsp;4 |
+| **Jain Global** | [Junior Developer, Compliance](https://www.wobo.ai/job/junior-developer-compliance-at-jain-global-s4p1azwro/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$120K to \$150K/yr | Nov&nbsp;4 |
 | **GDIT** | [Jr. Net, C#, SQL Developer - Active Top Secret required](https://www.wobo.ai/job/jr-net-c-sql-developer-active-top-secret-required-at-gdit-pukpelj9i/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Washington, DC | \$81K to \$92K/yr | Nov&nbsp;4 |
+| **Cisive** | [Associate Software Developer](https://www.wobo.ai/job/associate-software-developer-at-cisive-s4li3ztnl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | MD (remote) |  | Nov&nbsp;4 |
 | **Twitch** | [Software Dev Engineer I - Security Platform](https://www.wobo.ai/job/software-dev-engineer-i-security-platform-at-twitch-pqiknbr4m/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Irvine, CA +2 | \$123K to \$160K/yr | Nov&nbsp;4 |
 | **Captivation Software** | [Systems Engineer 1 - Linux / Bash / Python / STE / STN / Cisco / Docker](https://www.wobo.ai/job/systems-engineer-1-linuxbashpythonstestnciscodocker-at-captivation-software-pqigi0a85/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;4 |
 | ↳ | [Software Engineer 1 - Python/PySpark/AWS](https://www.wobo.ai/job/software-engineer-1-pythonpysparkaws-at-captivation-software-pqifssm4p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;4 |
@@ -677,6 +679,7 @@
 | **Florida Polytechnic University** | [Aerospace / Mechanical Engineering Faculty (Open Rank)](https://www.wobo.ai/job/aerospacemechanical-engineering-faculty-open-rank-at-florida-polytechnic-university-od37qhl77/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Lakeland, FL |  | Oct&nbsp;29 |
 | **Noble Machines, Inc** | [Electrical Engineer (Early Career)](https://www.wobo.ai/job/electrical-engineer-early-career-at-noble-machines-inc-s4u9i6qd1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Sunnyvale, CA | \$120K to \$150K/yr | Oct&nbsp;29 |
 | **Voyager Technologies, Inc.** | [Electrical Hardware Engineer I](https://www.wobo.ai/job/electrical-hardware-engineer-i-at-voyager-technologies-inc-obxqmamea/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pittsburgh, PA (hybrid) |  | Oct&nbsp;29 |
+| **Loram** | [Electrical Engineer I](https://www.wobo.ai/job/electrical-engineer-i-at-loram-s4oagqp9y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | MN |  | Oct&nbsp;29 |
 | **Texas Instruments** | [Career Accelerator Program - Test Engineer - TMG](https://www.wobo.ai/job/career-accelerator-program-test-engineer-tmg-at-texas-instruments-nyrhp3qyx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Dallas, TX |  | Oct&nbsp;29 |
 | **Rocket Lab Corporation** | [Spacecraft Propulsion Components Engineer I](https://www.wobo.ai/job/spacecraft-propulsion-components-engineer-i-at-rocket-lab-corporation-o2tl2k3dh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Long Beach, CA | \$82K to \$113K/yr | Oct&nbsp;28 |
 | ↳ | [RF Phased Array Engineer I](https://www.wobo.ai/job/rf-phased-array-engineer-i-at-rocket-lab-corporation-o2tju32oc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Long Beach, CA | \$88K to \$132K/yr | Oct&nbsp;28 |
