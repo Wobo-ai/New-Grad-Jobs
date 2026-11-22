@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**676 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:46 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**675 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:46 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (245) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (286) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (245) · [AI and ML](#entry-level-ai-and-ml-jobs) (46) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (286) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -311,7 +311,6 @@
 | **SambaNova** | [ML Infrastructure Engineer - New Grad](https://www.wobo.ai/job/ml-infrastructure-engineer-new-grad-at-sambanova-s4085f7gf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Austin, TX | \$131K to \$197K/yr | Oct&nbsp;27 |
 | **Hearst** | [2027 Hearst AI Newsroom Developer Fellowship Program](https://www.wobo.ai/job/2027-hearst-ai-newsroom-developer-fellowship-program-at-hearst-nl6fnrj7o/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Albany, NY (hybrid) |  | Oct&nbsp;26 |
 | **WebMD** | [Associate AI Research & Operations Analyst](https://www.wobo.ai/job/associate-ai-research-operations-analyst-at-webmd-n7fjt3wdf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | El Segundo, CA | \$60K/yr | Oct&nbsp;26 |
-| **Fuel Cycle** | [Associate AI Engineer](https://www.wobo.ai/job/associate-ai-engineer-at-fuel-cycle-mycc74xl4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Los Angeles, CA | \$90K to \$110K/yr | Oct&nbsp;23 |
 
 [Back to sections](#sections)
 
