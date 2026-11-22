@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**673 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**674 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (247) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (280) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (247) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (281) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -444,6 +444,7 @@
 | **Dynamic Aviation** | [Mechanical Engineer](https://www.wobo.ai/job/mechanical-engineer-at-dynamic-aviation-sguhkssy1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Bridgewater, VA | \$62K to \$81K/yr | Nov&nbsp;21 |
 | **Thorlabs** | [Electrical Engineer I - RF/Microwave](https://www.wobo.ai/job/electrical-engineer-i-rfmicrowave-at-thorlabs-sgrsj8rhu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ann Arbor, MI | \$84K to \$105K/yr | Nov&nbsp;21 |
 | **Tennessee Tech** | [Open Rank - Mechanical and Nuclear Engineering](https://www.wobo.ai/job/open-rank-mechanical-and-nuclear-engineering-at-tennessee-tech-sgjoa9qgr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Cookeville, TN |  | Nov&nbsp;21 |
+| **SpaceX** | [New Graduate Engineer, Electrical (Starfall)](https://www.wobo.ai/job/new-graduate-engineer-electrical-starfall-at-spacex-shpsmkoju/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hawthorne, CA | \$105K to \$140K/yr | Nov&nbsp;21 |
 | **SpaceX** | [New Graduate Engineer, Propulsion (Raptor)](https://www.wobo.ai/job/new-graduate-engineer-propulsion-raptor-at-spacex-sd3bw9nc0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hawthorne, CA | \$100K to \$130K/yr | Nov&nbsp;20 |
 | **Astera Labs Early Career - North America 2027** | [Post-Si Electrical Validation Engineer NCG](https://www.wobo.ai/job/post-si-electrical-validation-engineer-ncg-at-astera-labs-early-career-north-america-2027-sguvgd6z3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Jose, CA | \$140K to \$160K/yr | Nov&nbsp;20 |
 | **UL Solutions** | [Electrical Engineer](https://www.wobo.ai/job/electrical-engineer-at-ul-solutions-sc8ifo3u2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Melville, NY |  | Nov&nbsp;20 |
