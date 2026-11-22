@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**674 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**676 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:22 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (247) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (281) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (248) · [AI and ML](#entry-level-ai-and-ml-jobs) (47) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (282) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -206,6 +206,7 @@
 | ↳ | [Software Engineer 1 - Python/PySpark/AWS](https://www.wobo.ai/job/software-engineer-1-pythonpysparkaws-at-captivation-software-pqifssm4p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;4 |
 | ↳ | [Software Engineer 1 - Python / Kotlin / Java / Terraform / Elasticsearch / Opensearch / AWS](https://www.wobo.ai/job/software-engineer-1-pythonkotlinjavaterraformelasticsearchopensearchaws-at-captivation-pqifrah69/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;4 |
 | ↳ | [Software Engineer 1 - Java / Confluence / Jira / AWS / Maven / MapReduce](https://www.wobo.ai/job/software-engineer-1-javaconfluencejiraawsmavenmapreduce-at-captivation-software-pqifqqc4g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;4 |
+| **Empower Pharmacy** | [Associate Software Engineer – Full Stack](https://www.wobo.ai/job/associate-software-engineer-full-stack-at-empower-pharmacy-s46sxgd5e/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX |  | Nov&nbsp;4 |
 | **Credigy** | [Junior.Net Developer](https://www.wobo.ai/job/juniornet-developer-at-credigy-s5sppar4x/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Norcross, GA |  | Nov&nbsp;4 |
 | **Endeavor AI** | [Forward Deployed Engineer, 2027 Graduate](https://www.wobo.ai/job/forward-deployed-engineer-2027-graduate-at-endeavor-ai-s64pzttim/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Chicago, IL |  | Nov&nbsp;3 |
 | **RTX** | [Systems Engineer 1](https://www.wobo.ai/job/systems-engineer-1-at-rtx-prn2y2py1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Tucson, AZ | \$57K to \$109K/yr | Nov&nbsp;3 |
@@ -722,6 +723,7 @@
 | **Motorola Solutions** | [Junior Process Engineer](https://www.wobo.ai/job/junior-process-engineer-at-motorola-solutions-nm3k4ypjc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Los Angeles, CA | \$30 to \$36/hr | Oct&nbsp;25 |
 | **Leidos** | [Electronic Warfare Engineer](https://www.wobo.ai/job/electronic-warfare-engineer-at-leidos-ni9fepy00/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lawton, OK | \$58K to \$105K/yr | Oct&nbsp;25 |
 | **Cambro Manufacturing** | [Rotational Molding - Process Engineer III](https://www.wobo.ai/job/rotational-molding-process-engineer-iii-at-cambro-manufacturing-s40e1lzgs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Huntington Beach, CA | \$95K to \$120K/yr | Oct&nbsp;25 |
+| **Consolidated Asset Management Services** | [Entry-Level Electrical Engineer](https://www.wobo.ai/job/entry-level-electrical-engineer-at-consolidated-asset-management-services-s47w50059/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX |  | Oct&nbsp;23 |
 
 [Back to sections](#sections)
 
