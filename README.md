@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**661 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 6:50 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**654 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 7:09 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (243) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (241) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (271) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -254,8 +254,6 @@
 | **Torc Robotics** | [Commissioning - Systems Engineer I](https://www.wobo.ai/job/commissioning-systems-engineer-i-at-torc-robotics-mvt9f8p85/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ann Arbor, MI | \$99K to \$119K/yr | Oct&nbsp;23 |
 | **Tabbed** | [Junior QA Engineer](https://www.wobo.ai/job/junior-qa-engineer-at-tabbed-s5w5tsm7f/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (remote) | \$60K to \$80K/yr | Oct&nbsp;23 |
 | **Rokt** | [Junior Software Engineer - Rokt Residency](https://www.wobo.ai/job/junior-software-engineer-rokt-residency-at-rokt-mjovlo5s4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$50/hr | Oct&nbsp;23 |
-| **Leidos** | [Junior Software Developer](https://www.wobo.ai/job/junior-software-developer-at-leidos-n115n4mhn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | St. Louis, MO | \$70K to \$126K/yr | Oct&nbsp;22 |
-| **Amentum** | [Software Engineer 1](https://www.wobo.ai/job/software-engineer-1-at-amentum-mplcv9cy5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Hanover, MD | \$155K to \$185K/yr | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
@@ -307,7 +305,6 @@
 | **WebMD** | [Associate AI Research & Operations Analyst](https://www.wobo.ai/job/associate-ai-research-operations-analyst-at-webmd-n7fjt3wdf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | El Segundo, CA | \$60K/yr | Oct&nbsp;26 |
 | **Fuel Cycle** | [Associate AI Engineer](https://www.wobo.ai/job/associate-ai-engineer-at-fuel-cycle-mycc74xl4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Los Angeles, CA | \$90K to \$110K/yr | Oct&nbsp;23 |
 | **Addepar** | [Product Manager - Early Career, AI Platform](https://www.wobo.ai/job/product-manager-early-career-ai-platform-at-addepar-mvwwfrwfe/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$83K to \$130K/yr | Oct&nbsp;23 |
-| **Exelixis** | [Engineer I - DevSecOps (Ai Security)](https://www.wobo.ai/job/engineer-i-devsecops-ai-security-at-exelixis-mppkt2tsp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Alameda, CA | \$144K to \$182K/yr | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
@@ -364,7 +361,6 @@
 | **Catalent** | [Analytics Scientist I](https://www.wobo.ai/job/analytics-scientist-i-at-catalent-nmgs09gb9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Kansas City, MO |  | Oct&nbsp;25 |
 | **ASU Enterprise Partners** | [Student Assistant – Data Science](https://www.wobo.ai/job/student-assistant-data-science-at-asu-enterprise-partners-nm5xy2f9e/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Scottsdale, AZ (hybrid) |  | Oct&nbsp;25 |
 | **Abercrombie & Fitch Co.** | [Associate Analyst, Product Facing Insight & Analytics - A&F Co.](https://www.wobo.ai/job/associate-analyst-product-facing-insight-analytics-af-co-at-abercrombie-fitch-co-nek5bteeb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Columbus, OH (remote) | \$70K to \$80K/yr | Oct&nbsp;25 |
-| **BRG** | [Analyst, Data Analytics](https://www.wobo.ai/job/analyst-data-analytics-at-brg-mx7y3zvk8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Washington, DC (hybrid) | \$90K to \$120K/yr | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
@@ -372,6 +368,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **City and County of San Francisco** | [Cyber Defense Associate Engineer (1041) - Department of Technology](https://www.wobo.ai/job/cyber-defense-associate-engineer-1041-department-of-technology-at-city-and-county-of-san-sgzacwnm8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (hybrid) | \$130K to \$163K/yr | Nov&nbsp;20 |
 | **State of Georgia** | [Cybersecurity Analyst 1 - Central Office - Decatur, GA (ADM)](https://www.wobo.ai/job/cybersecurity-analyst-1-central-office-decatur-ga-adm-at-state-of-georgia-semsb8dfb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Decatur, GA | \$80K/yr | Nov&nbsp;19 |
 | **Oregon State University** | [Student Cybersecurity Risk Assessor – CASS Software Development Group](https://www.wobo.ai/job/student-cybersecurity-risk-assessor-cass-software-development-group-at-oregon-state-sgka32bp8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Corvallis, OR |  | Nov&nbsp;19 |
 | **Truist** | [Associate Security Engineer - Threat Modeling Analysis](https://www.wobo.ai/job/associate-security-engineer-threat-modeling-analysis-at-truist-s9hkemuys/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Charlotte, NC |  | Nov&nbsp;18 |
@@ -405,7 +402,6 @@
 | **Booz Allen** | [Cybersecurity Analyst, Junior](https://www.wobo.ai/job/cybersecurity-analyst-junior-at-booz-allen-nwjts2bb6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Rome, NY (hybrid) | \$53K to \$108K/yr | Oct&nbsp;27 |
 | **maxRTE** | [Network & Security Engineer I](https://www.wobo.ai/job/network-security-engineer-i-at-maxrte-nhd6rm2d9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Oct&nbsp;27 |
 | **Sierra Nevada Corporation** | [Systems Security Engineer I](https://www.wobo.ai/job/systems-security-engineer-i-at-sierra-nevada-corporation-ndhkpjttg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Oct&nbsp;25 |
-| **Citi** | [Technology- Cyber Security, Full Time Analyst, Irving 2027](https://www.wobo.ai/job/technology-cyber-security-full-time-analyst-irving-2027-at-citi-seibv83a8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Irving, TX (hybrid) | \$90K/yr | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
@@ -706,9 +702,6 @@
 | **Leidos** | [Electronic Warfare Engineer](https://www.wobo.ai/job/electronic-warfare-engineer-at-leidos-ni9fepy00/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lawton, OK | \$58K to \$105K/yr | Oct&nbsp;25 |
 | **Cambro Manufacturing** | [Rotational Molding - Process Engineer III](https://www.wobo.ai/job/rotational-molding-process-engineer-iii-at-cambro-manufacturing-s40e1lzgs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Huntington Beach, CA | \$95K to \$120K/yr | Oct&nbsp;25 |
 | **Redwire Defense Tech** | [Associate Avionics/Embedded Engineer](https://www.wobo.ai/job/associate-avionicsembedded-engineer-at-redwire-defense-tech-mn3n3nb3h/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Luis Obispo, CA | \$97K to \$115K/yr | Oct&nbsp;23 |
-| **STV** | [Electrical Engineering Specialist](https://www.wobo.ai/job/electrical-engineering-specialist-at-stv-mxz3rrzi2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Oklahoma City, OK | \$65K to \$74K/yr | Oct&nbsp;22 |
-| **RTX** | [FPGA Electrical Engineer I - Onsite](https://www.wobo.ai/job/fpga-electrical-engineer-i-onsite-at-rtx-mr8w875j7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Fort Wayne, IN | \$57K to \$109K/yr | Oct&nbsp;22 |
-| **Leidos** | [Junior Radio Frequency (RF) Engineer/Spectrum Engineer](https://www.wobo.ai/job/junior-radio-frequency-rf-engineerspectrum-engineer-at-leidos-n11451nux/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Washington, DC (hybrid) | \$70K to \$126K/yr | Oct&nbsp;22 |
 
 [Back to sections](#sections)
 
