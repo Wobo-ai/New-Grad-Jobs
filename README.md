@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**664 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 7:09 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**665 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 21, 2026, 7:09 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (243) · [AI and ML](#entry-level-ai-and-ml-jobs) (46) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (244) · [AI and ML](#entry-level-ai-and-ml-jobs) (46) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (15) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -208,6 +208,7 @@
 | **Genuine Parts Company** | [DevOps Engineer I](https://www.wobo.ai/job/devops-engineer-i-at-genuine-parts-company-pp9ly1cik/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Birmingham, AL (hybrid) |  | Nov&nbsp;3 |
 | **Booz Allen** | [Software and Documentation Support Engineer, Junior](https://www.wobo.ai/job/software-and-documentation-support-engineer-junior-at-booz-allen-pkxysgw83/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Port Hueneme, CA | \$53K to \$108K/yr | Nov&nbsp;3 |
 | **Captivation Software** | [Software Engineer 1 - MongoDB / Scala / Java / AWS](https://www.wobo.ai/job/software-engineer-1-mongodbscalajavaaws-at-captivation-software-phnh6h41d/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;3 |
+| **Custom Computer Specialists** | [Junior Systems Engineer](https://www.wobo.ai/job/junior-systems-engineer-at-custom-computer-specialists-s4r3nx1zi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hauppauge, NY | \$70K to \$85K/yr | Nov&nbsp;3 |
 | **SageCor Solutions** | [Systems Engineer 1 (IDN - 199)](https://www.wobo.ai/job/systems-engineer-1-idn-199-at-sagecor-solutions-p3nelqi95/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD |  | Nov&nbsp;3 |
 | **Sierra Nevada Corporation** | [Systems Engineer I](https://www.wobo.ai/job/systems-engineer-i-at-sierra-nevada-corporation-pjen63m24/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Nov&nbsp;2 |
 | **RTX** | [Systems Engineering- (Onsite)](https://www.wobo.ai/job/systems-engineering-onsite-at-rtx-pikta0q4j/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Burnsville, MN | \$37K to \$82K/yr | Nov&nbsp;2 |
