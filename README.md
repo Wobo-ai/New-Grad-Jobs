@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**674 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 12:54 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**672 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 1:51 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (245) · [AI and ML](#entry-level-ai-and-ml-jobs) (46) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (244) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -61,7 +61,6 @@
 | **Sierra Nevada Corporation** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-sierra-nevada-corporation-rylnkusbh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Nov&nbsp;17 |
 | **RTX** | [Software Engineer I (Onsite)](https://www.wobo.ai/job/software-engineer-i-onsite-at-rtx-rxu5q666k/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | St. Petersburg, FL +2 | \$69K to \$131K/yr | Nov&nbsp;17 |
 | **Rocket Companies** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-rocket-companies-ry5ueomy8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Detroit, MI |  | Nov&nbsp;17 |
-| **Roche** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-roche-rzjxz546m/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA (hybrid) | \$90K to \$166K/yr | Nov&nbsp;17 |
 | **Northwestern Mutual** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-northwestern-mutual-rzcil3tdx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Milwaukee, WI (hybrid) | \$76K to \$113K/yr | Nov&nbsp;17 |
 | **Jet Propulsion Laboratory** | [Engineering Applications Software Engineer Level 1](https://www.wobo.ai/job/engineering-applications-software-engineer-level-1-at-jet-propulsion-laboratory-s7833jyqc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Pasadena, CA | \$93K to \$112K/yr | Nov&nbsp;17 |
 | **Relativity Space** | [Software Engineer I (Factory Platform)](https://www.wobo.ai/job/software-engineer-i-factory-platform-at-relativity-space-rxfnytewy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Long Beach, CA | \$115K to \$173K/yr | Nov&nbsp;17 |
@@ -299,7 +298,6 @@
 | **Ande** | [Software Engineer, AI (Early Career)](https://www.wobo.ai/job/software-engineer-ai-early-career-at-ande-s4tejaqqb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY |  | Nov&nbsp;7 |
 | **Rokt** | [AI Operations - Rokt Residency](https://www.wobo.ai/job/ai-operations-rokt-residency-at-rokt-q4i6ss340/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY | \$40/hr | Nov&nbsp;7 |
 | **NVIDIA** | [Research Scientist, AI and Systems Security - PhD New College Grad 2026](https://www.wobo.ai/job/research-scientist-ai-and-systems-security-phd-new-college-grad-2026-at-nvidia-q2rb7lu7z/?utm_source=github&utm_medium=list&utm_campaign=new-grad) 🎓 | Westford, MA | \$168K to \$265K/yr | Nov&nbsp;5 |
-| **Emerson** | [Embedded Software Engineer – AI and Web](https://www.wobo.ai/job/embedded-software-engineer-ai-and-web-at-emerson-pmoku6ikc/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Marshalltown, IA (hybrid) |  | Nov&nbsp;5 |
 | **Captivation Software** | [Artificial Intelligence Machine Learning Engineer 1 - C++ / Marian / Java / AWS / PyTorch / Python](https://www.wobo.ai/job/artificial-intelligence-machine-learning-engineer-1-cmarianjavaawspytorchpython-at-pqiflm18b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;4 |
 | **SambaNova** | [Machine Learning Engineer - New Grad](https://www.wobo.ai/job/machine-learning-engineer-new-grad-at-sambanova-s40840ozp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Austin, TX | \$131K to \$197K/yr | Nov&nbsp;3 |
 | **Lead For America** | [Program Innovation & AI Literacy Specialist (IMPACTdmv)](https://www.wobo.ai/job/program-innovation-ai-literacy-specialist-impactdmv-at-lead-for-america-p5i2xqj0d/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Lanham, MD | \$23K/yr | Nov&nbsp;3 |
