@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**669 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 1:54 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**670 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 2:47 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (243) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (284) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (244) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (49) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (284) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -14,6 +14,9 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **Wonder** | [Associate Software Engineer, Robotics](https://www.wobo.ai/job/associate-software-engineer-robotics-at-wonder-sn0k48s4g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Charlestown, MA | \$114K to \$121K/yr | Nov&nbsp;22 |
+| **Sierra Nevada Corporation** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-sierra-nevada-corporation-sn3ds2at2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Nov&nbsp;22 |
+| ↳ | [Software Engineer I (Current Military Fellows Only)](https://www.wobo.ai/job/software-engineer-i-current-military-fellows-only-at-sierra-nevada-corporation-sn3drsmeh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Southern Pines, NC (hybrid) |  | Nov&nbsp;22 |
+| ↳ | [Systems Engineer I](https://www.wobo.ai/job/systems-engineer-i-at-sierra-nevada-corporation-sn3dpissl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO | \$99K to \$136K/yr | Nov&nbsp;22 |
 | **Testlio** | [Remote Software Tester (Freelance) \| Test AT&T U-verse & Cox](https://www.wobo.ai/job/remote-software-tester-freelance-test-att-u-verse-cox-at-testlio-slkob4gn4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$18/hr | Nov&nbsp;22 |
 | **Monarch Investment and Management Group** | [Junior Applications Developer](https://www.wobo.ai/job/junior-applications-developer-at-monarch-investment-and-management-group-sgl7fpxdy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Franktown, CO | \$70K to \$90K/yr | Nov&nbsp;21 |
 | **Katmai** | [Information Management Specialist (Sharepoint Developer Jr.)](https://www.wobo.ai/job/information-management-specialist-sharepoint-developer-jr-at-katmai-sdc5oq199/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Quantico, VA | \$90K to \$99K/yr | Nov&nbsp;21 |
@@ -97,7 +100,6 @@
 | **K Group Companies** | [Systems Engineer 1](https://www.wobo.ai/job/systems-engineer-1-at-k-group-companies-rj977k09e/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Grand Rapids, MI |  | Nov&nbsp;13 |
 | **Oracle** | [Site Reliability Engineer - OCI (Start Date: Feb 2027)](https://www.wobo.ai/job/site-reliability-engineer-oci-start-date-feb-2027-at-oracle-rex0qbodg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Nashville, TN | \$59K to \$118K/yr | Nov&nbsp;13 |
 | **Shield** | [Engineer I, Software - New Grad - 6531](https://www.wobo.ai/job/engineer-i-software-new-grad-6531-at-shield-rnh3prgq0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Arlington, VA |  | Nov&nbsp;13 |
-| **Sierra Nevada Corporation** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-sierra-nevada-corporation-rgpeda7sg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Nov&nbsp;12 |
 | **Raymond James** | [Financial Planning Software Support Analyst I](https://www.wobo.ai/job/financial-planning-software-support-analyst-i-at-raymond-james-rk94qivr8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | St. Petersburg, FL (hybrid) |  | Nov&nbsp;12 |
 | **O’Reilly Auto Parts** | [Platform Engineer I (Mobile Device Management) (Onsite Role)](https://www.wobo.ai/job/platform-engineer-i-mobile-device-management-onsite-role-at-oreilly-auto-parts-rji4hcyq6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Springfield, MO |  | Nov&nbsp;12 |
 | **Nightwing** | [Junior Software Engineer (SWE0)](https://www.wobo.ai/job/junior-software-engineer-swe0-at-nightwing-s2ydvpc9f/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$55K to \$106K/yr | Nov&nbsp;12 |
@@ -210,7 +212,6 @@
 | **Captivation Software** | [Software Engineer 1 - MongoDB / Scala / Java / AWS](https://www.wobo.ai/job/software-engineer-1-mongodbscalajavaaws-at-captivation-software-phnh6h41d/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD | \$130K to \$270K/yr | Nov&nbsp;3 |
 | **Custom Computer Specialists** | [Junior Systems Engineer](https://www.wobo.ai/job/junior-systems-engineer-at-custom-computer-specialists-s4r3nx1zi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Hauppauge, NY | \$70K to \$85K/yr | Nov&nbsp;3 |
 | **SageCor Solutions** | [Systems Engineer 1 (IDN - 199)](https://www.wobo.ai/job/systems-engineer-1-idn-199-at-sagecor-solutions-p3nelqi95/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Annapolis Junction, MD |  | Nov&nbsp;3 |
-| **Sierra Nevada Corporation** | [Systems Engineer I](https://www.wobo.ai/job/systems-engineer-i-at-sierra-nevada-corporation-pjen63m24/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Nov&nbsp;2 |
 | **RTX** | [Systems Engineering- (Onsite)](https://www.wobo.ai/job/systems-engineering-onsite-at-rtx-pikta0q4j/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Burnsville, MN | \$37K to \$82K/yr | Nov&nbsp;2 |
 | **Parsons** | [Software Engineer I - Top Secret](https://www.wobo.ai/job/software-engineer-i-top-secret-at-parsons-pci5mkq0r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Remote (US) | \$88K to \$155K/yr | Nov&nbsp;2 |
 | **Mariani Landscape** | [Associate Business Developer - Outside Sales & Territory Canvassing](https://www.wobo.ai/job/associate-business-developer-outside-sales-territory-canvassing-at-mariani-landscape-s3kk8ql82/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Venice, FL |  | Nov&nbsp;2 |
