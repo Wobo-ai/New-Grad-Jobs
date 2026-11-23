@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**668 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 3:41 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**675 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 3:41 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (243) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (34) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (284) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (246) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (51) · [Security](#entry-level-security-jobs) (36) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -17,6 +17,9 @@
 | **Sierra Nevada Corporation** | [Software Engineer I](https://www.wobo.ai/job/software-engineer-i-at-sierra-nevada-corporation-sn3ds2at2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO (hybrid) | \$86K to \$118K/yr | Nov&nbsp;22 |
 | ↳ | [Software Engineer I (Current Military Fellows Only)](https://www.wobo.ai/job/software-engineer-i-current-military-fellows-only-at-sierra-nevada-corporation-sn3drsmeh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Southern Pines, NC (hybrid) |  | Nov&nbsp;22 |
 | ↳ | [Systems Engineer I](https://www.wobo.ai/job/systems-engineer-i-at-sierra-nevada-corporation-sn3dpissl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Lone Tree, CO | \$99K to \$136K/yr | Nov&nbsp;22 |
+| **Northrop Grumman** | [2027 Associate Software Engineer / Software Engineer - Colorado Springs CO](https://www.wobo.ai/job/2027-associate-software-engineer-software-engineer-colorado-springs-co-at-northrop-grumman-snc24h266/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Colorado Springs, CO | \$70K to \$104K/yr | Nov&nbsp;22 |
+| ↳ | [2027 Associate Systems Engineer - Roy UT](https://www.wobo.ai/job/2027-associate-systems-engineer-roy-ut-at-northrop-grumman-snc1czfxq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Roy, UT | \$66K to \$99K/yr | Nov&nbsp;22 |
+| **Light & Wonder** | [Associate Software Engineer](https://www.wobo.ai/job/associate-software-engineer-at-light-wonder-snhb4k5yl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Reno, NV |  | Nov&nbsp;22 |
 | **Testlio** | [Remote Software Tester (Freelance) \| Test AT&T U-verse & Cox](https://www.wobo.ai/job/remote-software-tester-freelance-test-att-u-verse-cox-at-testlio-slkob4gn4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$18/hr | Nov&nbsp;22 |
 | **Monarch Investment and Management Group** | [Junior Applications Developer](https://www.wobo.ai/job/junior-applications-developer-at-monarch-investment-and-management-group-sgl7fpxdy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Franktown, CO | \$70K to \$90K/yr | Nov&nbsp;21 |
 | **Katmai** | [Information Management Specialist (Sharepoint Developer Jr.)](https://www.wobo.ai/job/information-management-specialist-sharepoint-developer-jr-at-katmai-sdc5oq199/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Quantico, VA | \$90K to \$99K/yr | Nov&nbsp;21 |
@@ -314,6 +317,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Resurgent Capital Services** | [Data Scientist I](https://www.wobo.ai/job/data-scientist-i-at-resurgent-capital-services-snhbesw9m/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Greenville, SC |  | Nov&nbsp;22 |
 | **Mass General Brigham** | [Data Analyst I](https://www.wobo.ai/job/data-analyst-i-at-mass-general-brigham-sn6gn3iro/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Boston, MA (hybrid) | \$53K to \$76K/yr | Nov&nbsp;22 |
 | **HealthCheck360** | [Data Engineer I](https://www.wobo.ai/job/data-engineer-i-at-healthcheck360-scuc8h6i7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Dubuque, IA |  | Nov&nbsp;20 |
 | **Jerry.ai** | [Associate Data Scientist](https://www.wobo.ai/job/associate-data-scientist-at-jerryai-sfcm8fucf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New York City, NY (remote) |  | Nov&nbsp;20 |
@@ -371,6 +375,8 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Leidos** | [Cyber Security Specialist Junior](https://www.wobo.ai/job/cyber-security-specialist-junior-at-leidos-snel1odx7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Okinawa | \$58K to \$105K/yr | Nov&nbsp;23 |
+| **athenahealth** | [Associate Application Security Engineer](https://www.wobo.ai/job/associate-application-security-engineer-at-athenahealth-snh2fb1j8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Remote (US) | \$96K to \$162K/yr | Nov&nbsp;22 |
 | **Oak Harbor Freight Lines** | [Cyber Security Analyst I](https://www.wobo.ai/job/cyber-security-analyst-i-at-oak-harbor-freight-lines-sguysy948/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Auburn, WA |  | Nov&nbsp;21 |
 | **City and County of San Francisco** | [Cyber Defense Associate Engineer (1041) - Department of Technology](https://www.wobo.ai/job/cyber-defense-associate-engineer-1041-department-of-technology-at-city-and-county-of-san-sgzacwnm8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA (hybrid) | \$130K to \$163K/yr | Nov&nbsp;20 |
 | **State of Georgia** | [Cybersecurity Analyst 1 - Central Office - Decatur, GA (ADM)](https://www.wobo.ai/job/cybersecurity-analyst-1-central-office-decatur-ga-adm-at-state-of-georgia-semsb8dfb/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Decatur, GA | \$80K/yr | Nov&nbsp;19 |
@@ -433,6 +439,7 @@
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
 | **WSP** | [Early Professional, Mechanical Engineering](https://www.wobo.ai/job/early-professional-mechanical-engineering-at-wsp-smtpgq8is/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Reno, NV +1 |  | Nov&nbsp;23 |
+| **Northrop Grumman** | [2027 Associate Material Process Engineer / Material Process Engineer - Roy UT](https://www.wobo.ai/job/2027-associate-material-process-engineer-material-process-engineer-roy-ut-at-northrop-snc221y3b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Roy, UT | \$60K to \$90K/yr | Nov&nbsp;22 |
 | **Sierra Space** | [Mechanical Engineer I](https://www.wobo.ai/job/mechanical-engineer-i-at-sierra-space-sj7nx1kao/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Louisville, CO | \$77K to \$106K/yr | Nov&nbsp;21 |
 | **Dynamic Aviation** | [Mechanical Engineer](https://www.wobo.ai/job/mechanical-engineer-at-dynamic-aviation-sguhkssy1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Bridgewater, VA | \$62K to \$81K/yr | Nov&nbsp;21 |
 | **Thorlabs** | [Electrical Engineer I - RF/Microwave](https://www.wobo.ai/job/electrical-engineer-i-rfmicrowave-at-thorlabs-sgrsj8rhu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ann Arbor, MI | \$84K to \$105K/yr | Nov&nbsp;21 |
