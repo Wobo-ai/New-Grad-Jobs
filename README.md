@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**670 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 3:50 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**671 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 4:30 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (242) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (242) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (286) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -433,6 +433,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **WSP** | [Early Professional, Mechanical Engineering](https://www.wobo.ai/job/early-professional-mechanical-engineering-at-wsp-smtpgq8is/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Reno, NV +1 |  | Nov&nbsp;23 |
 | **Sierra Space** | [Mechanical Engineer I](https://www.wobo.ai/job/mechanical-engineer-i-at-sierra-space-sj7nx1kao/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Louisville, CO | \$77K to \$106K/yr | Nov&nbsp;21 |
 | **Dynamic Aviation** | [Mechanical Engineer](https://www.wobo.ai/job/mechanical-engineer-at-dynamic-aviation-sguhkssy1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | Bridgewater, VA | \$62K to \$81K/yr | Nov&nbsp;21 |
 | **Thorlabs** | [Electrical Engineer I - RF/Microwave](https://www.wobo.ai/job/electrical-engineer-i-rfmicrowave-at-thorlabs-sgrsj8rhu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Ann Arbor, MI | \$84K to \$105K/yr | Nov&nbsp;21 |
