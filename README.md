@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**675 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:46 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**674 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 12:54 am ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (245) · [AI and ML](#entry-level-ai-and-ml-jobs) (46) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (286) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (245) · [AI and ML](#entry-level-ai-and-ml-jobs) (46) · [Data](#entry-level-data-jobs) (50) · [Security](#entry-level-security-jobs) (35) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -635,7 +635,6 @@
 | **Michael Baker International** | [Mechanical Engineering Associate I](https://www.wobo.ai/job/mechanical-engineering-associate-i-at-michael-baker-international-pv5b6w9ky/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Diego, CA (hybrid) | \$77K to \$111K/yr | Nov&nbsp;6 |
 | **ZEISS** | [Associate Test Engineer Lvl 1-CW](https://www.wobo.ai/job/associate-test-engineer-lvl-1-cw-at-zeiss-q155xgoex/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Dublin, CA | \$32 to \$37/hr | Nov&nbsp;5 |
 | **Ingevity** | [Entry Level Process Engineer](https://www.wobo.ai/job/entry-level-process-engineer-at-ingevity-s4gqcavru/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Covington, VA |  | Nov&nbsp;5 |
-| **General Motors** | [Entry-Level Manufacturing Engineering Rotational Program](https://www.wobo.ai/job/entry-level-manufacturing-engineering-rotational-program-at-general-motors-q1rdr8505/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Warren, MI |  | Nov&nbsp;5 |
 | **Cisco** | [ASIC DFT Engineer I (Full Time) - United States](https://www.wobo.ai/job/asic-dft-engineer-i-full-time-united-states-at-cisco-q2swz2mu4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Jose, CA (hybrid) | \$108K to \$157K/yr | Nov&nbsp;5 |
 | **ChampionX** | [Mechanical Engineer](https://www.wobo.ai/job/mechanical-engineer-at-championx-q1arf1y4y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Broken Arrow, OK |  | Nov&nbsp;5 |
 | **Amentum** | [Early Career Spaceflight Hardware Propulsion Engineer](https://www.wobo.ai/job/early-career-spaceflight-hardware-propulsion-engineer-at-amentum-q2pd4pyrf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Houston, TX | from \$65K/yr | Nov&nbsp;5 |
