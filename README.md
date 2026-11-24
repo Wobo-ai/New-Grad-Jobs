@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**618 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:09 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**617 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 12:55 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (211) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (211) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (14) · [Hardware](#entry-level-hardware-jobs) (273) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -559,7 +559,6 @@
 | **TTM Technologies** | Mechanical Engineer I <kbd>clearance</kbd> | NY | \$68K to \$113K/yr | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rcj4nkf1a/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rcj4nkf1a/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Marathon Petroleum Corporation** | Project Engineer - Instrumentation and Electrical | Salt Lake City, UT |  | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r8xryqfv4/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8xryqfv4/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Intel** | Design Verification Engineer | Santa Clara, CA | \$106K to \$149K/yr | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r8wjky06y/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8wjky06y/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **IMEG** | Electrical Engineering New Graduate \| Scottsdale, AZ | Scottsdale, AZ |  | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r9bc6cy35/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r9bc6cy35/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **First Quality** | Process Engineer I | PA |  | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r8l8o5mcl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8l8o5mcl/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Catalent** | Process Engineer I | Greenville, NC |  | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r91ck8w8g/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r91ck8w8g/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **LotusWorks** | Junior Mechanical Field Engineer | New Albany, OH |  | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r6u9c6oy4/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r6u9c6oy4/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
