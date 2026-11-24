@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**675 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 3:41 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
+**674 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 3:41 pm ET). Entry level here means a first job: no internships, no senior titles. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (246) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (51) · [Security](#entry-level-security-jobs) (36) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (245) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (51) · [Security](#entry-level-security-jobs) (36) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (285) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -247,7 +247,6 @@
 | ↳ | [Junior Back-End Software Engineer](https://www.wobo.ai/job/junior-back-end-software-engineer-at-bask-health-nq70p6nl6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | United States |  | Oct&nbsp;28 |
 | **Guidehouse** | [Junior Developer](https://www.wobo.ai/job/junior-developer-at-guidehouse-nv98e0mh8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) <kbd>clearance</kbd> | IL | \$68K to \$113K/yr | Oct&nbsp;27 |
 | **ChampionX** | [Application Engineer I](https://www.wobo.ai/job/application-engineer-i-at-championx-o4hvhd0uq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Midland, TX |  | Oct&nbsp;27 |
-| **Aspen Technology** | [DevOps Engineer I](https://www.wobo.ai/job/devops-engineer-i-at-aspen-technology-nwj4wah7e/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Bedford, MA | \$86K to \$107K/yr | Oct&nbsp;27 |
 | **RainFocus** | [Jr. UI Developer (Remote)](https://www.wobo.ai/job/jr-ui-developer-remote-at-rainfocus-nthfyrfgs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Any State (remote) |  | Oct&nbsp;27 |
 | **SambaNova** | [Cloud Platform Engineer - New Grad](https://www.wobo.ai/job/cloud-platform-engineer-new-grad-at-sambanova-s407l4343/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Austin, TX | \$131K to \$197K/yr | Oct&nbsp;27 |
 | **Agave** | [Full-Stack Software Engineer (New Grad)](https://www.wobo.ai/job/full-stack-software-engineer-new-grad-at-agave-s4xeug7sj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) | San Francisco, CA |  | Oct&nbsp;27 |
