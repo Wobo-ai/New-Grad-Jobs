@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**610 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 3:54 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**609 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:09 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (207) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (28) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (207) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (45) · [Security](#entry-level-security-jobs) (28) · [Product and design](#entry-level-product-and-design-jobs) (13) · [Hardware](#entry-level-hardware-jobs) (273) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -388,7 +388,6 @@
 | **H&H** | Electrical Designer | Fort Lauderdale, FL |  | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sp81c11v1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sp81c11v1/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Aerospace** | Electrical Engineer I | Torrance, CA (hybrid) | \$71K to \$88K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/snzavt6tw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/snzavt6tw/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | ↳ | Process Engineer I | San Jose, CA | \$83K to \$104K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/snzan790x/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/snzan790x/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **WSP** | Early Professional, Mechanical Engineering | Reno, NV +1 |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/smtpgq8is/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/smtpgq8is/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Northrop Grumman** | 2027 Associate Material Process Engineer / Material Process Engineer - Roy UT <kbd>clearance</kbd> | Roy, UT | \$60K to \$90K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/snc221y3b/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/snc221y3b/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Applied Materials** | New College Grad Test Engineer I (Bachelors - Gloucester, MA) | Gloucester, MA | \$66K to \$90K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sq4w2f2h9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sq4w2f2h9/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Sierra Space** | Mechanical Engineer I | Louisville, CO | \$77K to \$106K/yr | Nov&nbsp;21 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sj7nx1kao/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sj7nx1kao/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
