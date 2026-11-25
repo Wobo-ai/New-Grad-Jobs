@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**621 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:26 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**620 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:26 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (211) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (280) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (211) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (280) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -274,7 +274,6 @@
 | **Exelixis** | Associate Engineer- AI and Agentics | Alameda, CA | \$115K to \$145K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oe4u5tcmn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oe4u5tcmn/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Oxbridge Health** | AI Engineer | Norwalk, CT |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nwqie38uw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nwqie38uw/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **SambaNova** | ML Infrastructure Engineer - New Grad | Austin, TX | \$131K to \$197K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s4085f7gf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4085f7gf/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Hearst** | 2027 Hearst AI Newsroom Developer Fellowship Program | Albany, NY (hybrid) |  | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nl6fnrj7o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nl6fnrj7o/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
