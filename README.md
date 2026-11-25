@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**610 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**609 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (207) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (38) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (275) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (207) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (38) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (275) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -323,7 +323,6 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| **SAIC** | Junior Cybersecurity Specialist <kbd>clearance</kbd> | Flexwork (remote) |  | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/so24faioi/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/so24faioi/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Pendo** | Associate Security Engineer | Raleigh, NC (hybrid) | \$89K to \$107K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sq7525gxv/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sq7525gxv/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Northrop Grumman** | 2027 Associate Cyber Systems Engineer - San Diego CA <kbd>clearance</kbd> | San Diego, CA | \$87K to \$130K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ss3v7cs1i/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ss3v7cs1i/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Nordstrom** | Identity Security Engineer 1 - HYBRID | Seattle, WA (hybrid) | \$105K to \$163K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/spzm88ete/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/spzm88ete/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
