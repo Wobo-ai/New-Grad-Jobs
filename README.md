@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**620 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**610 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (211) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (277) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (207) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (38) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (275) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -220,10 +220,6 @@
 | **Agave** | Full-Stack Software Engineer (New Grad) | San Francisco, CA |  | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s4xeug7sj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4xeug7sj/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Esri** | DevOps Engineer I – Azure | Redlands, CA | \$79K to \$133K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s2tjzib4q/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s2tjzib4q/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Twitch** | Software Engineer I | San Francisco, CA | \$127K to \$185K/yr | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nkyq4ajme/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nkyq4ajme/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **RTX** | Systems Engineer I - Onsite <kbd>clearance</kbd> | Indianapolis, IN | \$57K to \$109K/yr | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nhp1tsmv8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nhp1tsmv8/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Northrop Grumman** | Associate Software Engineer / Software Engineer <kbd>clearance</kbd> | Huntsville, AL | \$73K to \$109K/yr | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nlajbfvcs/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nlajbfvcs/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Applied Materials** | Global Software Support Engineer I | Austin, TX | \$70K to \$96K/yr | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ni68a4xmj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ni68a4xmj/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| ↳ | Algorithm Developer II - New College Grad (Masters - Santa Clara, CA) 🎓 | Santa Clara, CA | \$131K to \$180K/yr | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ni67d79py/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ni67d79py/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -320,10 +316,6 @@
 | **Sperry Rail, Inc** | Data Analyst I | Olathe, KS |  | Nov&nbsp;3 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/p3lswj1v3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/p3lswj1v3/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Vantor** | Junior Data Engineer (TS/SCI) <kbd>clearance</kbd> | Herndon, VA | \$115K to \$155K/yr | Nov&nbsp;2 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/paj0iu8sb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/paj0iu8sb/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Smithfield Foods** | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | \$22 to \$31/hr | Nov&nbsp;2 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/pkkthkigb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/pkkthkigb/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **The Home Depot** | Associate Data Scientist, Merchandise Execution Team (MET) | GA |  | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sbxdx58a3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sbxdx58a3/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Catalent** | Analytics Scientist I | Kansas City, MO |  | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nmgs09gb9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nmgs09gb9/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **ASU Enterprise Partners** | Student Assistant – Data Science | Scottsdale, AZ (hybrid) |  | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nm5xy2f9e/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nm5xy2f9e/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Abercrombie & Fitch Co.** | Associate Analyst, Product Facing Insight & Analytics - A&F Co. | Columbus, OH (remote) | \$70K to \$80K/yr | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nek5bteeb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nek5bteeb/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -666,8 +658,6 @@
 | **Hunter Douglas** | Automation & Controls Engineer I | Broomfield, CO | \$78K to \$97K/yr | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nl37u82hs/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nl37u82hs/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Farcast** | Electrical Engineer (Early Career) | San Francisco, CA |  | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nm5q9xv9d/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nm5q9xv9d/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **AECOM** | Entry-Level Traction Power Engineer | Philadelphia, PA (hybrid) |  | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nco5tw34h/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nco5tw34h/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Motorola Solutions** | Junior Process Engineer | Los Angeles, CA | \$30 to \$36/hr | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nm3k4ypjc/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nm3k4ypjc/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Leidos** | Electronic Warfare Engineer <kbd>clearance</kbd> | Lawton, OK | \$58K to \$105K/yr | Oct&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ni9fepy00/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ni9fepy00/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
