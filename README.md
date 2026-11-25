@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**623 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 3:49 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**621 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:05 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (213) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (278) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (213) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (276) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -408,7 +408,6 @@
 | **RTX** | Mechanical Engineer I (Onsite) <kbd>clearance</kbd> | Sterling, VA +2 | \$63K to \$120K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/srqrba23w/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srqrba23w/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Micron Technology** | New College Grad - PCVD Process Engineer | Boise, ID |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/svn0zmihy/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/svn0zmihy/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Medtronic** | Manufacturing Engineer I - Jacksonville | Jacksonville, FL | \$70K to \$104K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/swv6ihj9l/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swv6ihj9l/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Leidos** | Jr Avionics Test Engineer <kbd>clearance</kbd> | Huntsville, AL | \$58K to \$105K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ss6nyavj9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ss6nyavj9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Johnson & Johnson** | Associate Manufacturing Engineer | Jacksonville, FL |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ss06osj48/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ss06osj48/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Hitachi Digital Services** | Mechanical Engineer I | Holland, MI |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ss14cu8nw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ss14cu8nw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Dematic** | Mechanical Engineer (New Graduate / Early Career) | Salt Lake City, UT (hybrid) | \$76K to \$110K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/srs5e47ae/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srs5e47ae/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
@@ -670,7 +669,6 @@
 | **IMEG** | Electrical Engineering New Grad \| Columbus, OH | Columbus, OH | \$73K to \$83K/yr | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nn5a13aqu/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nn5a13aqu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Daimler Truck Financial Services** | Manufacturing Production Process Engineer I | Byesville, OH | \$71K to \$91K/yr | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nn8qqslm8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nn8qqslm8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Hunter Douglas** | Automation & Controls Engineer I | Broomfield, CO | \$78K to \$97K/yr | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nl37u82hs/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nl37u82hs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Farcast** | Electrical Engineer (Early Career) | San Francisco, CA |  | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nm5q9xv9d/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nm5q9xv9d/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
