@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**608 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**606 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 12:53 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (207) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (38) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (206) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (38) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (274) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -78,7 +78,6 @@
 | **Cla-Val** | Junior Software Developer | Costa Mesa, CA |  | Nov&nbsp;17 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rsumy8u7i/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rsumy8u7i/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Fantom Corporation** | Software Engineer Level 0 <kbd>clearance</kbd> | Hanover, MD |  | Nov&nbsp;16 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rsdrw85fa/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rsdrw85fa/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Torch Technologies** | Junior-Level Modeling & Simulation Software Engineer <kbd>clearance</kbd> | Huntsville, AL |  | Nov&nbsp;16 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s3afebye1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s3afebye1/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Tandem Diabetes Care** | Embedded Software Engineer I | CA (remote) | \$39 to \$49/hr | Nov&nbsp;16 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rvb53tj9o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rvb53tj9o/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Shift4** | QA Engineer I | Atlanta, GA (hybrid) |  | Nov&nbsp;16 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s65hy0f3j/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s65hy0f3j/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Leidos** | High-Speed Systems Engineer <kbd>clearance</kbd> | King of Prussia, PA | \$58K to \$105K/yr | Nov&nbsp;16 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ruuame3b5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ruuame3b5/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Boeing** | Associate Software Engineer - Developer <kbd>clearance</kbd> | Tukwila, WA | \$106K to \$144K/yr | Nov&nbsp;16 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rxv0pvxk0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rxv0pvxk0/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
@@ -270,7 +269,6 @@
 | **Oxbridge Health** | AI Engineer | Norwalk, CT |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nwqie38uw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nwqie38uw/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **SambaNova** | ML Infrastructure Engineer - New Grad | Austin, TX | \$131K to \$197K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s4085f7gf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4085f7gf/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Hearst** | 2027 Hearst AI Newsroom Developer Fellowship Program | Albany, NY (hybrid) |  | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nl6fnrj7o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nl6fnrj7o/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **WebMD** | Associate AI Research & Operations Analyst | El Segundo, CA | \$60K/yr | Oct&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/n7fjt3wdf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/n7fjt3wdf/?apply=1&utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
