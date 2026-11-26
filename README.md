@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**619 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 1:54 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**615 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 2:52 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (212) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (272) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (210) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (271) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -223,8 +223,6 @@
 | ↳ | Junior Back-End Software Engineer | United States |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nq70p6nl6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nq70p6nl6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Guidehouse** | Junior Developer <kbd>clearance</kbd> | IL | \$68K to \$113K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nv98e0mh8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nv98e0mh8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **ChampionX** | Application Engineer I | Midland, TX |  | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o4hvhd0uq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o4hvhd0uq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **RainFocus** | Jr. UI Developer (Remote) | Any State (remote) |  | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nthfyrfgs/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nthfyrfgs/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **SambaNova** | Cloud Platform Engineer - New Grad | Austin, TX | \$131K to \$197K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s407l4343/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s407l4343/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -275,7 +273,6 @@
 | **Bristol Myers Squibb** | Associate Engineer, Analytical AI Engineering | Princeton, NJ | \$81K to \$98K/yr | Oct&nbsp;30 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/olhokp7wp/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/olhokp7wp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Exelixis** | Associate Engineer- AI and Agentics | Alameda, CA | \$115K to \$145K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oe4u5tcmn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oe4u5tcmn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Oxbridge Health** | AI Engineer | Norwalk, CT |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nwqie38uw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nwqie38uw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **SambaNova** | ML Infrastructure Engineer - New Grad | Austin, TX | \$131K to \$197K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s4085f7gf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4085f7gf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -421,7 +418,6 @@
 | **Dematic** | Mechanical Engineer (New Graduate / Early Career) | Salt Lake City, UT (hybrid) | \$76K to \$110K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/srs5e47ae/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srs5e47ae/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Amentum** | Electrical Engineer 1 | Englewood, CO | from \$85K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sv4kzbblg/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sv4kzbblg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **AAON** | Mechanical Engineer I | Tulsa, OK +1 |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sv308sfwh/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sv308sfwh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Woodward L'Orange GmbH** | Mechanical Design Engineer I | Zeeland, MI | \$65K to \$85K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/srr10ct35/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srr10ct35/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Northrop Grumman** | 2027 Associate Material Process Engineer / Material Process Engineer - Roy UT <kbd>clearance</kbd> | Roy, UT | \$60K to \$90K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/snc221y3b/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/snc221y3b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Applied Materials** | New College Grad Test Engineer I (Bachelors - Gloucester, MA) | Gloucester, MA | \$66K to \$90K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sq4w2f2h9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sq4w2f2h9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Sierra Space** | Mechanical Engineer I | Louisville, CO | \$77K to \$106K/yr | Nov&nbsp;21 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sj7nx1kao/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sj7nx1kao/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
