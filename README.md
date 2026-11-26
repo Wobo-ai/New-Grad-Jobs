@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**618 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 12:52 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**619 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 1:54 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (212) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (272) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (212) · [AI and ML](#entry-level-ai-and-ml-jobs) (44) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (272) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -283,6 +283,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **Northwell** | Associate Business Intelligence Analyst - Onsite | Staten Island, NY |  | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t052kl3dj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t052kl3dj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Cedars-Sinai** | Research Associate Data Scientist - Levy Lab - Digital Pathology | Los Angeles, CA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sujfieln2/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sujfieln2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Pronghorn** | Jr. Data Analyst | Alpharetta, GA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/st02mph8y/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/st02mph8y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Simeon Global Consulting** | Analytics Associate | Tallahassee, FL |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ssxxpwey0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ssxxpwey0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
@@ -395,6 +396,7 @@
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | **UL Solutions** | Electrical Engineer | Northbrook, IL +1 | \$75K to \$85K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szenx3bw3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szenx3bw3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
+| **Axon** | Mechanical Design Engineer I (Hybrid) | Sterling, VA (hybrid) | \$90K to \$144K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szw58minl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szw58minl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Rocket Lab Corporation** | Spacecraft Propulsion Components Engineer I <kbd>clearance</kbd> | Long Beach, CA | \$82K to \$113K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szj7x3frr/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szj7x3frr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **WSP** | Early Professional Mechanical Engineer – Overhead Transmission Lines | Reno, NV +1 | \$64K to \$88K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/swe2tvqm5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swe2tvqm5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **AEVEX** | Mechanical Engineer I | Baltimore, MD | \$83K to \$103K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szs88sgcf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szs88sgcf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
@@ -665,7 +667,6 @@
 | **SambaNova** | Post-Silicon Validation Engineer, New Grad | San Jose, CA | \$120K to \$150K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s4089vap1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4089vap1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | ↳ | Design Verification Engineer, New Grad | San Jose, CA | \$120K to \$150K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s407rtsqn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s407rtsqn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **CannonDesign** | Mechanical - Entry Level | Arlington, VA | \$33 to \$41/hr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nu2t9484w/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nu2t9484w/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **True Anomaly** | Electrical Engineer I, Harness | Denver, CO | \$75K to \$110K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ntv5hatdq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ntv5hatdq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
