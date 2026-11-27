@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**600 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 2:52 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**598 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 3:51 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (202) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (267) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (202) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (266) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -264,7 +264,6 @@
 | **Bottomline** | AI Enablement Analyst | Portsmouth, NH |  | Nov&nbsp;2 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/p7zr7dj8r/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/p7zr7dj8r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Bristol Myers Squibb** | Associate Engineer, Analytical AI Engineering | Princeton, NJ | \$81K to \$98K/yr | Oct&nbsp;30 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/olhokp7wp/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/olhokp7wp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Exelixis** | Associate Engineer- AI and Agentics | Alameda, CA | \$115K to \$145K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oe4u5tcmn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oe4u5tcmn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Oxbridge Health** | AI Engineer | Norwalk, CT |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nwqie38uw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nwqie38uw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -381,6 +380,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **Illumina** | Process Engineer 1 - Laser Systems | San Diego, CA | \$68K to \$103K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t5l3zyxxu/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t5l3zyxxu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **UL Solutions** | Electrical Engineer | Northbrook, IL +1 | \$75K to \$85K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szenx3bw3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szenx3bw3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Axon** | Mechanical Design Engineer I (Hybrid) | Sterling, VA (hybrid) | \$90K to \$144K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szw58minl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szw58minl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Rocket Lab Corporation** | Spacecraft Propulsion Components Engineer I <kbd>clearance</kbd> | Long Beach, CA | \$82K to \$113K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szj7x3frr/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szj7x3frr/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
@@ -646,8 +646,6 @@
 | ↳ | Avionics Test Engineer I | Long Beach, CA | \$68K to \$94K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o2tjf89bh/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o2tjf89bh/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | ↳ | RF Engineer I | Long Beach, CA | \$88K to \$132K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o2tjtp4u0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o2tjtp4u0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Astronics** | Electrical Engineer I | Clackamas, OR |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o01v4pca7/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o01v4pca7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Coffman Engineers, Inc** | Industrial Mechanical Designer (Entry) | Burlington, WA | \$55K to \$65K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o2b3j1rme/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o2b3j1rme/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Smiths Group** | Electrical Engineering Tech | Arden, NC |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o24hmvl6i/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o24hmvl6i/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
