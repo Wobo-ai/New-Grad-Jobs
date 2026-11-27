@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**613 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 4:03 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**608 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 4:03 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (210) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (31) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (269) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (208) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (44) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (267) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -221,8 +221,6 @@
 | **Discernis** | Software Engineer | New York City, NY |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s5ujrmi8b/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s5ujrmi8b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Bask Health** | Junior Front-End Software Engineer | United States |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nq70rvs16/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nq70rvs16/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | ↳ | Junior Back-End Software Engineer | United States |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nq70p6nl6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nq70p6nl6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Guidehouse** | Junior Developer <kbd>clearance</kbd> | IL | \$68K to \$113K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nv98e0mh8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nv98e0mh8/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **ChampionX** | Application Engineer I | Midland, TX |  | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o4hvhd0uq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o4hvhd0uq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -361,7 +359,6 @@
 | **Clarity Innovations** | Junior Reverse Engineering / Vulnerability Research Engineer | Columbus, OH | \$102K to \$173K/yr | Nov&nbsp;2 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/p93jrcrar/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/p93jrcrar/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Bluestaq** | Cybersecurity Engineering Residency Program <kbd>clearance</kbd> | Colorado Springs, CO | \$40/hr | Oct&nbsp;30 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/okkql0ay1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/okkql0ay1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Leidos** | Jr. Offensive Cyber Engineer <kbd>clearance</kbd> | Lawton, OK | \$70K to \$126K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oauti4719/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oauti4719/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Booz Allen** | Cybersecurity Analyst, Junior <kbd>clearance</kbd> | Rome, NY (hybrid) | \$53K to \$108K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nwjts2bb6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nwjts2bb6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -659,8 +656,6 @@
 | **Astronics** | Electrical Engineer I | Clackamas, OR |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o01v4pca7/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o01v4pca7/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Coffman Engineers, Inc** | Industrial Mechanical Designer (Entry) | Burlington, WA | \$55K to \$65K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o2b3j1rme/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o2b3j1rme/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Smiths Group** | Electrical Engineering Tech | Arden, NC |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o24hmvl6i/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o24hmvl6i/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Leonardo** | Manufacturing Engineer I | Philadelphia, PA (hybrid) |  | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o59700fbj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o59700fbj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **GlobalFoundries** | Silicon Photonics Device Engineer (2027 New College Graduate) | Malta, NY | \$69K to \$120K/yr | Oct&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nwamctemm/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nwamctemm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
