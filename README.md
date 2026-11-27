@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**602 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 3:07 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**603 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 3:07 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (204) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (267) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (204) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (267) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -224,6 +224,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **CameraMatics** | AI Graduate (On-Site) | Austin, TX |  | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t30w3ky17/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t30w3ky17/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Scout AI** | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) <kbd>clearance</kbd> | Sunnyvale, CA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sztfcmxbw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sztfcmxbw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Howmet Aerospace** | AI Engineer | Pittsburgh, PA (hybrid) | \$38K to \$43K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sug0qwgm4/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sug0qwgm4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Weekday AI** | Remote AI Data Contributor | Remote (US) | \$10/hr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/su7uq0ubj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/su7uq0ubj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
