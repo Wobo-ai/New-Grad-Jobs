@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**603 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 3:07 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**602 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 3:07 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (204) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (267) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (203) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (267) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -216,7 +216,6 @@
 | **Avnet** | Associate Field Application Engineer - AMD | Wilmington, MA (hybrid) | \$85K to \$105K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oe65r5mo4/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oe65r5mo4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Argonne National Laboratory** | Postbaccalaureate Appointee - Robotics Software Developer, Rapid Prototyping Laboratory | Lemont, IL | \$59K to \$92K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oclkyhgaw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oclkyhgaw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Veolia** | Junior Manufacturing Software Engineer | Boulder, CO | \$78K to \$90K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o2ssdozxj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o2ssdozxj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Discernis** | Software Engineer | New York City, NY |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s5ujrmi8b/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s5ujrmi8b/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
