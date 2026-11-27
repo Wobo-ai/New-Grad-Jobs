@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**601 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 12:50 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**599 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 1:52 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (202) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (43) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (267) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (202) · [AI and ML](#entry-level-ai-and-ml-jobs) (43) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (267) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -272,7 +272,6 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| **Northwell** | Associate Business Intelligence Analyst - Onsite | Staten Island, NY |  | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t052kl3dj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t052kl3dj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Cedars-Sinai** | Research Associate Data Scientist - Levy Lab - Digital Pathology | Los Angeles, CA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sujfieln2/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sujfieln2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Pronghorn** | Jr. Data Analyst | Alpharetta, GA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/st02mph8y/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/st02mph8y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Simeon Global Consulting** | Analytics Associate | Tallahassee, FL |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ssxxpwey0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ssxxpwey0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
@@ -338,7 +337,6 @@
 | **National Center for Missing & Exploited Children** | Analyst 1, CyberTipline | Lake Park, FL +1 |  | Nov&nbsp;17 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rsui1rgdl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rsui1rgdl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Leidos** | Network Vulnerability Remediation Engineer – Junior Level <kbd>clearance</kbd> | Remote (US) | \$59K to \$107K/yr | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ruubg7f6m/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ruubg7f6m/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Global Partners LP** | Junior Cybersecurity Threat Hunter & Analyst | Newton, MA | \$81K to \$121K/yr | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rsyyaw797/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rsyyaw797/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Amentum** | Cybersecurity Engineer Junior <kbd>clearance</kbd> | FL | \$70K to \$80K/yr | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rt03rz8xg/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rt03rz8xg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **LevelBlue** | Cyber Associate, IP (Litigation) | Hybrid |  | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rio4fblaq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rio4fblaq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **City and County of San Francisco** | Workplace Security Analyst Trainee (9910) - Department of Public Health - EXEMPT | San Francisco, CA | \$50/hr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/riu9jvmn6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/riu9jvmn6/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Booz Allen** | Cybersecurity Test Engineer, Junior <kbd>clearance</kbd> | Rome, NY (hybrid) | \$55K to \$126K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/res9urhim/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/res9urhim/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
