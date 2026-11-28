@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**577 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 3:20 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**582 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 3:20 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (193) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (255) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (194) · [AI and ML](#entry-level-ai-and-ml-jobs) (45) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (256) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **HireHawk** | Associate Software Engineer (Remote) \| United States | Chicago, IL (remote) | \$90K to \$110K/yr | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t7tqc2xrj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7tqc2xrj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Scout AI** | Software Engineer, Core Systems (New Grad, 2027) <kbd>clearance</kbd> | Sunnyvale, CA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sztffdwxd/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sztffdwxd/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Parallel Web Systems** | Early Career Software Engineer, Developer Experience | San Francisco, CA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sxg3ikbgl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sxg3ikbgl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **XPENG** | Software Engineer - Computing Platform (New Graduate) | Santa Clara, CA | \$124K to \$210K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szti8sw9n/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szti8sw9n/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
@@ -213,6 +214,9 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **Mindrift** | US Adult with Health Insurance - Freelance AI Data Contributor | Anchorage, AK (remote) |  | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t7uvu0j0j/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7uvu0j0j/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
+| ↳ | Health Insurance Card Images - Freelance AI Data Contributor | Anchorage, AK (remote) |  | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t7ui7n5e0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7ui7n5e0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
+| ↳ | Health Insurance Card Holder - Freelance AI Data Contributor | Anchorage, AK (remote) |  | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t7ui61jsi/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7ui61jsi/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **LSEG** | AI Sales Analyst | New York City, NY | \$71K to \$119K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t7foz1cp4/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7foz1cp4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **CameraMatics** | AI Graduate (On-Site) | Austin, TX |  | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t30w3ky17/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t30w3ky17/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Scout AI** | AI Engineer, AI/ML and Agent Harnessing (New Grad, 2027) <kbd>clearance</kbd> | Sunnyvale, CA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sztfcmxbw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sztfcmxbw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
@@ -370,6 +374,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **Motor Coach Industries** | Electrical Designer (Junior / Intermediate) | Anniston, AL |  | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t7sldx4p3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7sldx4p3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Illumina** | Process Engineer 1 - Laser Systems | San Diego, CA | \$68K to \$103K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t5l3zyxxu/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t5l3zyxxu/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **UL Solutions** | Electrical Engineer | Northbrook, IL +1 | \$75K to \$85K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szenx3bw3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szenx3bw3/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Axon** | Mechanical Design Engineer I (Hybrid) | Sterling, VA (hybrid) | \$90K to \$144K/yr | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/szw58minl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szw58minl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
