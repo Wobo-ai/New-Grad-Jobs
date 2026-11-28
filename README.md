@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**577 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:41 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**577 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 12:51 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (195) · [AI and ML](#entry-level-ai-and-ml-jobs) (41) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (255) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (194) · [AI and ML](#entry-level-ai-and-ml-jobs) (41) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (256) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -207,7 +207,6 @@
 | **Boeing** | Associate Software Engineer <kbd>clearance</kbd> | Albuquerque, NM | \$99K to \$144K/yr | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oewie9afd/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oewie9afd/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Northwood Space** | Software Engineer, Platform (Early Career) | Torrance, CA |  | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o67js4ajw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o67js4ajw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Interco** | Junior Software Developer | St. Louis, MO | \$60K to \$65K/yr | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s4udscnxa/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4udscnxa/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **NMB Technologies Corporation** | Application Engineer Associate | Chatsworth, CA | \$70K to \$104K/yr | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nx6y4myvw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nx6y4myvw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -549,6 +548,7 @@
 | **ALTEN Technology USA** | Aerospace Integration Engineer | Everett, WA | \$95K to \$105K/yr | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r6pqzu1xq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r6pqzu1xq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Relativity Space** | Vehicle Fluids Hardware Development Engineer I | Long Beach, CA | \$90K to \$136K/yr | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r6v8vn3rg/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r6v8vn3rg/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **TTM Technologies** | Mechanical Engineer I <kbd>clearance</kbd> | NY | \$68K to \$113K/yr | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rcj4nkf1a/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rcj4nkf1a/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
+| **RTX** | Manufacturing Engineer I (Onsite - Puerto Rico) | Santa Isabel |  | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/rd250nnkx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rd250nnkx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Marathon Petroleum Corporation** | Project Engineer - Instrumentation and Electrical | Salt Lake City, UT |  | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r8xryqfv4/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8xryqfv4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Intel** | Design Verification Engineer | Santa Clara, CA | \$106K to \$149K/yr | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r8wjky06y/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8wjky06y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **First Quality** | Process Engineer I | PA |  | Nov&nbsp;10 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/r8l8o5mcl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8l8o5mcl/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
