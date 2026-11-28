@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**592 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:41 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**578 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:41 pm ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (201) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (30) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (262) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (196) · [AI and ML](#entry-level-ai-and-ml-jobs) (41) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (255) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -209,11 +209,6 @@
 | **Interco** | Junior Software Developer | St. Louis, MO | \$60K to \$65K/yr | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s4udscnxa/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4udscnxa/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **NMB Technologies Corporation** | Application Engineer Associate | Chatsworth, CA | \$70K to \$104K/yr | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nx6y4myvw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nx6y4myvw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Rocket Lab Corporation** | Spacecraft Propulsion Systems Engineer I <kbd>clearance</kbd> | Long Beach, CA | \$82K to \$113K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o2tl30jno/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o2tl30jno/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Technology Service Corporation** | Junior Software Engineer (UAS) <kbd>clearance</kbd> | Arlington, VA | \$81K to \$116K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s3xjexbq1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s3xjexbq1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Leidos** | Jr Systems Engineer <kbd>clearance</kbd> | Newport News, VA | \$58K to \$105K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oaut23d6g/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oaut23d6g/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Cisco** | Software QA Engineer I (Full Time) - United States | Richardson, TX | \$95K to \$140K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o5vs9ro7h/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o5vs9ro7h/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Avnet** | Associate Field Application Engineer - AMD | Wilmington, MA (hybrid) | \$85K to \$105K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oe65r5mo4/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oe65r5mo4/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Argonne National Laboratory** | Postbaccalaureate Appointee - Robotics Software Developer, Rapid Prototyping Laboratory | Lemont, IL | \$59K to \$92K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oclkyhgaw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oclkyhgaw/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -262,7 +257,6 @@
 | **Augsburg University** | Student: AI Fellowship | Minneapolis, MN | \$16/hr | Nov&nbsp;2 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s45j5zec5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s45j5zec5/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Bottomline** | AI Enablement Analyst | Portsmouth, NH |  | Nov&nbsp;2 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/p7zr7dj8r/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/p7zr7dj8r/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Bristol Myers Squibb** | Associate Engineer, Analytical AI Engineering | Princeton, NJ | \$81K to \$98K/yr | Oct&nbsp;30 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/olhokp7wp/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/olhokp7wp/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Exelixis** | Associate Engineer- AI and Agentics | Alameda, CA | \$115K to \$145K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oe4u5tcmn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oe4u5tcmn/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -347,7 +341,6 @@
 | **Leidos** | Cyberspace Operations Planner, Junior <kbd>clearance</kbd> | Fort Meade, MD | \$58K to \$105K/yr | Nov&nbsp;3 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/pqlulzesm/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/pqlulzesm/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Clarity Innovations** | Junior Reverse Engineering / Vulnerability Research Engineer | Columbus, OH | \$102K to \$173K/yr | Nov&nbsp;2 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/p93jrcrar/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/p93jrcrar/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Bluestaq** | Cybersecurity Engineering Residency Program <kbd>clearance</kbd> | Colorado Springs, CO | \$40/hr | Oct&nbsp;30 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/okkql0ay1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/okkql0ay1/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Leidos** | Jr. Offensive Cyber Engineer <kbd>clearance</kbd> | Lawton, OK | \$70K to \$126K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oauti4719/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oauti4719/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
@@ -633,13 +626,6 @@
 | **Voyager Technologies, Inc.** | Electrical Hardware Engineer I | Pittsburgh, PA (hybrid) |  | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/obxqmamea/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/obxqmamea/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Loram** | Electrical Engineer I | MN |  | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s4oagqp9y/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4oagqp9y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Texas Instruments** | Career Accelerator Program - Test Engineer - TMG | Dallas, TX |  | Oct&nbsp;29 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/nyrhp3qyx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/nyrhp3qyx/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **RTX** | Electrical Production Support REA Engineer I - Onsite <kbd>clearance</kbd> | Huntsville, AL | \$57K to \$109K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/obavi1ugv/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/obavi1ugv/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Northrop Grumman** | (Skillbridge) – Electrical Engineer 1 <kbd>clearance</kbd> | Chandler, AZ | \$64K to \$96K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ocla5bl6p/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ocla5bl6p/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **IMEG** | Electrical Engineering New Graduate \| St. Louis, MO | St. Louis, MO |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/om9i033iq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/om9i033iq/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Hargrove Engineers + Constructors** | Process Engineer I | Houston, TX |  | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/s3abudow9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s3abudow9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Cisco** | Hardware Engineer I (Full-Time) - United States | San Jose, CA (hybrid) | \$85K to \$124K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/o5vsph9i9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/o5vsph9i9/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Applied Materials** | RF Electrical Engineer New College Grad- Master's (Santa Clara, CA) 🎓 | Santa Clara, CA | \$100K to \$137K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/oa9ekktbf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/oa9ekktbf/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| **Analog Devices** | Associate Test Engineer | San Jose, CA | \$61K to \$84K/yr | Oct&nbsp;28 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ocxl3oywj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ocxl3oywj/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 [Back to sections](#sections)
 
