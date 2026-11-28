@@ -1,11 +1,11 @@
 # <a href="#entry-level-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="New Grad Tech Jobs by Wobo" src="assets/banner.png"></picture></a>
 
-**576 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 2:43 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
+**577 open new grad and entry-level tech jobs in the US for 2026 and 2027 graduates**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 3:20 am ET). Entry level here means a first job: no internships, no senior titles. For each role, **View job** opens the job on New Grad List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=new-grad&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (193) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (41) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (255) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#entry-level-software-jobs) (193) · [AI and ML](#entry-level-ai-and-ml-jobs) (42) · [Data](#entry-level-data-jobs) (42) · [Security](#entry-level-security-jobs) (29) · [Product and design](#entry-level-product-and-design-jobs) (16) · [Hardware](#entry-level-hardware-jobs) (255) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -262,6 +262,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **Jobs for Humanity** | Copy of Data Analyst | Seattle, WA |  | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/t8bnoxach/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t8bnoxach/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Cedars-Sinai** | Research Associate Data Scientist - Levy Lab - Digital Pathology | Los Angeles, CA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/sujfieln2/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sujfieln2/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Pronghorn** | Jr. Data Analyst | Alpharetta, GA |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/st02mph8y/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/st02mph8y/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | **Simeon Global Consulting** | Analytics Associate | Tallahassee, FL |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.newgradlist.com/job/ssxxpwey0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ssxxpwey0/?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
